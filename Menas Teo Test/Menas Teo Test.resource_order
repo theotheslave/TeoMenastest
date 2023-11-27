@@ -16,5 +16,9 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_player_left","order":3,"path":"sprites/spr_player_left/spr_player_left.yy",},
+    {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
+    {"name":"spr_player_down","order":1,"path":"sprites/spr_player_down/spr_player_down.yy",},
+  ],
 }
