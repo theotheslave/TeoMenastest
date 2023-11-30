@@ -1,12 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+movespd = 5
 
-right_key = keyboard_check(vk_right);
-left_key = keyboard_check(vk_left);
-up_key = keyboard_check(vk_up);
-down_key = keyboard_check(vk_down);
+xspeed = 0
+yspeed = 0
 
-xspeed = (right_key - left_key) * movespd;
-yspeed = (down_key - up_key) * movespd;
 
-movespd = 1
