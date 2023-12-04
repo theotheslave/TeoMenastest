@@ -1,12 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_doorout","path":"objects/obj_doorout/obj_doorout.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "obj_wall",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -30,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_up",
-    "path": "sprites/spr_player_up/spr_player_up.yy",
+    "name": "spr_wall",
+    "path": "sprites/spr_wall/spr_wall.yy",
   },
   "spriteMaskId": null,
   "visible": true,
