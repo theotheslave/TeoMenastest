@@ -24,6 +24,7 @@
     {"name":"Sprite13","order":12,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"Sprite12","order":11,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"spr_player_left","order":3,"path":"sprites/spr_player_left/spr_player_left.yy",},
+    {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Sprite17","order":16,"path":"sprites/Sprite17/Sprite17.yy",},
