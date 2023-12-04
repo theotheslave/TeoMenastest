@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite20",
-  "bbox_bottom": 115,
-  "bbox_left": 28,
-  "bbox_right": 106,
-  "bbox_top": 6,
+  "name": "spr_wardrobe_bw",
+  "bbox_bottom": 125,
+  "bbox_left": 14,
+  "bbox_right": 118,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"94593f78-d27d-41f6-ad3e-1b394f6decad",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"493d55cb-6602-4365-9853-3cf18f6c7a77",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1398f3cd-70af-4f96-bdef-0ae34e402074","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1d968b48-9ef7-412f-8843-4c74734e7fcd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite20",
+    "name": "spr_wardrobe_bw",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"94593f78-d27d-41f6-ad3e-1b394f6decad","path":"sprites/Sprite20/Sprite20.yy",},},},"Disabled":false,"id":"a4b893f9-a5e9-4739-8dc1-294677271b2f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"493d55cb-6602-4365-9853-3cf18f6c7a77","path":"sprites/spr_wardrobe_bw/spr_wardrobe_bw.yy",},},},"Disabled":false,"id":"d5d5d9f5-0eae-4db1-85ad-781e0fea4ea3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

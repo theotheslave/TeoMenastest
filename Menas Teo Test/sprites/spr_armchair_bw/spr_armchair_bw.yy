@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite21",
-  "bbox_bottom": 125,
-  "bbox_left": 14,
-  "bbox_right": 118,
-  "bbox_top": 2,
+  "name": "spr_armchair_bw",
+  "bbox_bottom": 115,
+  "bbox_left": 28,
+  "bbox_right": 106,
+  "bbox_top": 6,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"493d55cb-6602-4365-9853-3cf18f6c7a77",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"57b1bf3a-8668-4cac-93a7-c8684700991a",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1d968b48-9ef7-412f-8843-4c74734e7fcd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c934e26a-eb69-4a3c-b5fc-97324a77e29c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite21",
+    "name": "spr_armchair_bw",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"493d55cb-6602-4365-9853-3cf18f6c7a77","path":"sprites/Sprite21/Sprite21.yy",},},},"Disabled":false,"id":"d5d5d9f5-0eae-4db1-85ad-781e0fea4ea3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"57b1bf3a-8668-4cac-93a7-c8684700991a","path":"sprites/spr_armchair_bw/spr_armchair_bw.yy",},},},"Disabled":false,"id":"2afddb21-6e56-4167-bad5-ed3452688e17","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
