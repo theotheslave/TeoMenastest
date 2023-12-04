@@ -5,6 +5,8 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"AI","order":1,"path":"folders/Objects/AI.yy",},
+    {"name":"NPC","order":1,"path":"folders/Objects/AI/NPC.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -25,6 +27,7 @@
     {"name":"Sprite12","order":11,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"spr_player_left","order":3,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
+<<<<<<< HEAD
     {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"obj_NPCBob","order":1,"path":"objects/obj_NPCBob/obj_NPCBob.yy",},
@@ -34,5 +37,25 @@
     {"name":"Sprite10","order":9,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"spr_player_down","order":1,"path":"sprites/spr_player_down/spr_player_down.yy",},
     {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+=======
+<<<<<<< Updated upstream
+    {"name":"spr_player_down","order":1,"path":"sprites/spr_player_down/spr_player_down.yy",},
+=======
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"obj_NPCBob","order":1,"path":"objects/obj_NPCBob/obj_NPCBob.yy",},
+    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"Sprite9","order":8,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"Outdoors","order":2,"path":"rooms/Outdoors/Outdoors.yy",},
+    {"name":"spr_AI","order":13,"path":"sprites/spr_AI/spr_AI.yy",},
+    {"name":"Sprite10","order":9,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"spr_player_down","order":1,"path":"sprites/spr_player_down/spr_player_down.yy",},
+    {"name":"spr_wall","order":14,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_door","order":15,"path":"sprites/spr_door/spr_door.yy",},
+    {"name":"obj_doorout","order":3,"path":"objects/obj_doorout/obj_doorout.yy",},
+    {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+>>>>>>> Stashed changes
+>>>>>>> Menas
   ],
 }
