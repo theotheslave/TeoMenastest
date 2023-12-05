@@ -1,6 +1,5 @@
 {
   "FolderOrderSettings": [
-<<<<<<< HEAD
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -58,12 +57,5 @@
     {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
 >>>>>>> Stashed changes
 >>>>>>> Menas
-=======
-    {"name":"NPC","order":1,"path":"folders/Objects/AI/NPC.yy",},
-  ],
-  "ResourceOrderSettings": [
-    {"name":"obj_NPCBob","order":1,"path":"objects/obj_NPCBob/obj_NPCBob.yy",},
-    {"name":"objTextOverhead","order":2,"path":"objects/objTextOverhead/objTextOverhead.yy",},
->>>>>>> Teo
   ],
 }
