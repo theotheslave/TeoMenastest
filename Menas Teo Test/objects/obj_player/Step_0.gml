@@ -42,7 +42,7 @@ if (keyboard_check_pressed(vk_space))
  {
   with (inst) 
   {
-   instance_destroy(); 
+ instance_destroy()
   }
  }
 <<<<<<< HEAD
