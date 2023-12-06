@@ -16,6 +16,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"AI","folderPath":"folders/Objects/AI.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"NPC","folderPath":"folders/Objects/AI/NPC.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
@@ -34,18 +36,14 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
-    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
-    {"id":{"name":"obj_doorin","path":"objects/obj_doorin/obj_doorin.yy",},},
-    {"id":{"name":"obj_stairs","path":"objects/obj_stairs/obj_stairs.yy",},},
-    {"id":{"name":"obj_doorout","path":"objects/obj_doorout/obj_doorout.yy",},},
-    {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
-    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
-    {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
-    {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
+    {"id":{"name":"rPlayer","path":"rooms/rPlayer/rPlayer.yy",},},
+    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
+    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
+    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"spr_player_left","path":"sprites/spr_player_left/spr_player_left.yy",},},
     {"id":{"name":"spr_player_up","path":"sprites/spr_player_up/spr_player_up.yy",},},
-    {"id":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
@@ -55,10 +53,18 @@
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
+=======
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
+>>>>>>> parent of ea88038 (Merge branch 'Menas' into Teo)
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+<<<<<<< HEAD
+=======
+    {"id":{"name":"fInteractible","path":"fonts/fInteractible/fInteractible.yy",},},
+>>>>>>> parent of ea88038 (Merge branch 'Menas' into Teo)
     {"id":{"name":"obj_AIParent","path":"objects/obj_AIParent/obj_AIParent.yy",},},
     {"id":{"name":"obj_NPCBob","path":"objects/obj_NPCBob/obj_NPCBob.yy",},},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
@@ -68,17 +74,20 @@
     {"id":{"name":"spr_AI","path":"sprites/spr_AI/spr_AI.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 0e87cc9 (HELP)
 =======
 >>>>>>> parent of 0e87cc9 (HELP)
+=======
+    {"id":{"name":"objTextOverhead","path":"objects/objTextOverhead/objTextOverhead.yy",},},
+>>>>>>> parent of ea88038 (Merge branch 'Menas' into Teo)
     {"id":{"name":"spr_player_down","path":"sprites/spr_player_down/spr_player_down.yy",},},
-    {"id":{"name":"room_begin","path":"rooms/room_begin/room_begin.yy",},},
-    {"id":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"room_begin","path":"rooms/room_begin/room_begin.yy",},},
-    {"roomId":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
-    {"roomId":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rPlayer","path":"rooms/rPlayer/rPlayer.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
