@@ -4,7 +4,6 @@
   "name": "obj_NPCBob",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -13,8 +12,8 @@
     "path": "folders/Objects/AI/NPC.yy",
   },
   "parentObjectId": {
-    "name": "obj_AIParent",
-    "path": "objects/obj_AIParent/obj_AIParent.yy",
+    "name": "obj_NPCParent",
+    "path": "objects/obj_NPCParent/obj_NPCParent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
