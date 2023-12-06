@@ -11,3 +11,6 @@ draw_text_color(obj_NPCBob.x,obj_NPCBob.y,  "Press Space To Interact", c_black, 
 
 show_debug_message("KMSSSSSSSSSSSS")
   }
+
+
+
