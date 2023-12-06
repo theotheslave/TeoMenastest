@@ -19,12 +19,16 @@
   "ResourceOrderSettings": [
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_doorin","order":3,"path":"objects/obj_doorin/obj_doorin.yy",},
+    {"name":"obj_stairs","order":4,"path":"objects/obj_stairs/obj_stairs.yy",},
     {"name":"obj_doorout","order":2,"path":"objects/obj_doorout/obj_doorout.yy",},
+    {"name":"obj_enemy","order":5,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"spr_wall","order":4,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_door","order":5,"path":"sprites/spr_door/spr_door.yy",},
+    {"name":"spr_enemy","order":6,"path":"sprites/spr_enemy/spr_enemy.yy",},
     {"name":"spr_player_left","order":3,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"room_outside","order":1,"path":"rooms/room_outside/room_outside.yy",},
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"spr_player_down","order":1,"path":"sprites/spr_player_down/spr_player_down.yy",},
+    {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
   ],
 }
