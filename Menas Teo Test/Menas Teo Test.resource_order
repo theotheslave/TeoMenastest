@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "FolderOrderSettings": [
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
@@ -32,6 +33,10 @@
     {"name":"spr_player_down","order":1,"path":"sprites/spr_player_down/spr_player_down.yy",},
     {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
   ],
+=======
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [],
+>>>>>>> parent of 0e87cc9 (HELP)
 =======
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [],
