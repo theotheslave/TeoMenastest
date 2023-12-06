@@ -9,13 +9,15 @@ xspeed = (right_key - left_key) * movespd;
 yspeed = (down_key - up_key) * movespd;
 
 if place_meeting(x+xspeed,y+yspeed,obj_wall) ==true {
-	xspeed = 0
-	yspeed = 0
+	xspeed = 0;
+	yspeed = 0;
 }
 
 if place_meeting(x+xspeed,y+yspeed,obj_enemy) ==true {
-	xspeed = 0
-	yspeed = 0
+	
+	xspeed =0;
+	yspeed =0;
+	
 }
 
 x = xspeed + x;
