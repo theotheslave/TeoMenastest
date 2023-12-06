@@ -14,7 +14,8 @@ if place_meeting(x+xspeed,y+yspeed,obj_wall) ==true {
 }
 
 if place_meeting(x+xspeed,y+yspeed,obj_enemy) ==true {
-instance_destroy(obj_player)
+	xspeed = 0
+	yspeed = 0
 }
 
 x = xspeed + x;
