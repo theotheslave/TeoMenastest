@@ -35,7 +35,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"moves","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"True","varType":3,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"minMoveTime","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"150","varType":1,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"maxMoveTime","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"250","varType":1,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"moveRange","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":true,"rangeMax":128.0,"rangeMin":16.0,"value":"73","varType":1,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"moveRange","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":true,"rangeMax":128.0,"rangeMin":16.0,"value":"128","varType":1,},
   ],
   "solid": false,
   "spriteId": null,

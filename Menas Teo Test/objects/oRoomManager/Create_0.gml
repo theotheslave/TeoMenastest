@@ -1,4 +1,16 @@
 
+
+var _w = global.res.width
+var _h = global.res.height
+camera = create_create_view(0,0,_w,_h, 0, noone, -1, -1 , _w/2, _h/2);
+
+
+
+
+
+
+
+
 // Collision Tile
 colTilemap = layer_tilemap_get_id("TilesCollision")
 
