@@ -7,6 +7,7 @@
     {"name":"scrRoomManager","order":1,"path":"scripts/scrRoomManager/scrRoomManager.yy",},
     {"name":"scrData","order":3,"path":"scripts/scrData/scrData.yy",},
     {"name":"oCollision","order":2,"path":"objects/oCollision/oCollision.yy",},
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
     {"name":"Collision","order":4,"path":"scripts/Collision/Collision.yy",},
     {"name":"Object7","order":3,"path":"objects/Object7/Object7.yy",},
     {"name":"obj_NPCBob","order":1,"path":"objects/obj_NPCBob/obj_NPCBob.yy",},
