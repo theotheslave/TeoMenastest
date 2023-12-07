@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet1",
+  "name": "bush_of_grass_ts",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "wall",
-    "path": "sprites/wall/wall.yy",
+    "name": "bush_of_grass",
+    "path": "sprites/bush_of_grass/bush_of_grass.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
