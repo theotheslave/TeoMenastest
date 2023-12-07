@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet1",
+  "name": "TileSet2",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "wall",
-    "path": "sprites/wall/wall.yy",
+    "name": "flor",
+    "path": "sprites/flor/flor.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
