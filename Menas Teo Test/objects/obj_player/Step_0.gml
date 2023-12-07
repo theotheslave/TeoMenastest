@@ -8,7 +8,7 @@ shift_sprint = keyboard_check(vk_shift)
 xspeed = (right_key - left_key) * movespd;
 yspeed = (down_key - up_key) * movespd;
 
-if place_meeting(x+xspeed,y+yspeed,obj_wall) ==true {
+if place_meeting(x+xspeed,y+yspeed,obj_par_obstacle) ==true {
 	xspeed = 0;
 	yspeed = 0;
 }
