@@ -1,22 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-<<<<<<<< HEAD:Menas Teo Test/objects/obj_wall/obj_wall.yy
-  "name": "obj_wall",
-========
-  "name": "oTextBox",
->>>>>>>> origin/Teo-2-:Menas Teo Test/objects/oTextBox/oTextBox.yy
+  "name": "Object7",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-<<<<<<<< HEAD:Menas Teo Test/objects/obj_wall/obj_wall.yy
     "name": "Objects",
     "path": "folders/Objects.yy",
-========
-    "name": "GUI",
-    "path": "folders/Objects/GUI.yy",
->>>>>>>> origin/Teo-2-:Menas Teo Test/objects/oTextBox/oTextBox.yy
   },
   "parentObjectId": null,
   "persistent": false,
@@ -35,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_wall",
-    "path": "sprites/spr_wall/spr_wall.yy",
+    "name": "Sprite9",
+    "path": "sprites/Sprite9/Sprite9.yy",
   },
   "spriteMaskId": null,
   "visible": true,

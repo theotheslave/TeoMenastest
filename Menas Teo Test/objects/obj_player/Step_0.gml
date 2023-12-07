@@ -28,7 +28,11 @@ if (keyboard_check_pressed(vk_space))
  {
   with (inst) 
   {
+<<<<<<< HEAD
    instance_destroy(); 
+=======
+ instance_destroy();
+>>>>>>> origin/Teo-2-
   }
  }
 }

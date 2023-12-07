@@ -1,22 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-<<<<<<<< HEAD:Menas Teo Test/objects/obj_wall/obj_wall.yy
-  "name": "obj_wall",
-========
-  "name": "oTextBox",
->>>>>>>> origin/Teo-2-:Menas Teo Test/objects/oTextBox/oTextBox.yy
+  "name": "oCollision",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-<<<<<<<< HEAD:Menas Teo Test/objects/obj_wall/obj_wall.yy
     "name": "Objects",
     "path": "folders/Objects.yy",
-========
-    "name": "GUI",
-    "path": "folders/Objects/GUI.yy",
->>>>>>>> origin/Teo-2-:Menas Teo Test/objects/oTextBox/oTextBox.yy
   },
   "parentObjectId": null,
   "persistent": false,
@@ -34,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_wall",
-    "path": "sprites/spr_wall/spr_wall.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

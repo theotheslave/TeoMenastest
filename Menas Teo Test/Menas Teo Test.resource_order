@@ -17,8 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"AI","order":1,"path":"folders/Objects/AI.yy",},
     {"name":"NPC","order":1,"path":"folders/Objects/AI/NPC.yy",},
+    {"name":"Sequence","order":1,"path":"folders/Sequence.yy",},
+    {"name":"GUI","order":4,"path":"folders/Objects/GUI.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< HEAD
     {"name":"rPlayer","order":1,"path":"rooms/rPlayer/rPlayer.yy",},
     {"name":"Sprite11","order":10,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"Sprite13","order":12,"path":"sprites/Sprite13/Sprite13.yy",},
@@ -34,5 +37,21 @@
     {"name":"Sprite10","order":9,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"spr_player_down","order":1,"path":"sprites/spr_player_down/spr_player_down.yy",},
     {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+=======
+    {"name":"scrRoomManager","order":1,"path":"scripts/scrRoomManager/scrRoomManager.yy",},
+    {"name":"scrData","order":3,"path":"scripts/scrData/scrData.yy",},
+    {"name":"oCollision","order":2,"path":"objects/oCollision/oCollision.yy",},
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Collision","order":4,"path":"scripts/Collision/Collision.yy",},
+    {"name":"scrResolution","order":6,"path":"scripts/scrResolution/scrResolution.yy",},
+    {"name":"Object7","order":3,"path":"objects/Object7/Object7.yy",},
+    {"name":"obj_NPCBob","order":1,"path":"objects/obj_NPCBob/obj_NPCBob.yy",},
+    {"name":"Sprite19","order":2,"path":"sprites/Sprite19/Sprite19.yy",},
+    {"name":"sMessage","order":1,"path":"sprites/sMessage/sMessage.yy",},
+    {"name":"MathFunction","order":2,"path":"scripts/MathFunction/MathFunction.yy",},
+    {"name":"TextBox","order":5,"path":"scripts/TextBox/TextBox.yy",},
+    {"name":"oRoomManager","order":1,"path":"objects/oRoomManager/oRoomManager.yy",},
+    {"name":"XDDDDDDDDDDDDDDDDD","order":1,"path":"tilesets/XDDDDDDDDDDDDDDDDD/XDDDDDDDDDDDDDDDDD.yy",},
+>>>>>>> origin/Teo-2-
   ],
 }
