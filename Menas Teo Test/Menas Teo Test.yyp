@@ -54,7 +54,6 @@
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"Collision","path":"scripts/Collision/Collision.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
-    {"id":{"name":"fInteractible","path":"fonts/fInteractible/fInteractible.yy",},},
     {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},},
     {"id":{"name":"obj_AIParent","path":"objects/obj_AIParent/obj_AIParent.yy",},},
     {"id":{"name":"obj_NPCBob","path":"objects/obj_NPCBob/obj_NPCBob.yy",},},
