@@ -71,8 +71,8 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rPlayer","path":"rooms/rPlayer/rPlayer.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rPlayer","path":"rooms/rPlayer/rPlayer.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
