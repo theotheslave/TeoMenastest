@@ -1,5 +1,4 @@
 if (obj_player.y <= obj_wolf.y ){
-
 move_towards_point(obj_player.x,obj_player.y, xspeedenemy);
 }
 

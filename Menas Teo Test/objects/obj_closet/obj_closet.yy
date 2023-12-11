@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "_2",
-    "path": "sprites/_2/_2.yy",
+    "name": "spr_closet",
+    "path": "sprites/spr_closet/spr_closet.yy",
   },
   "spriteMaskId": null,
   "visible": true,

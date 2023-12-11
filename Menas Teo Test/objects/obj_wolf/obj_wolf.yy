@@ -31,8 +31,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_enemy",
-    "path": "sprites/spr_enemy/spr_enemy.yy",
+    "name": "spr_wolf",
+    "path": "sprites/spr_wolf/spr_wolf.yy",
   },
   "spriteMaskId": null,
   "visible": true,

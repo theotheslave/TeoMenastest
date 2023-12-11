@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "_1",
-    "path": "sprites/_1/_1.yy",
+    "name": "spr_bed",
+    "path": "sprites/spr_bed/spr_bed.yy",
   },
   "spriteMaskId": null,
   "visible": true,

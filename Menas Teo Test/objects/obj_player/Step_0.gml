@@ -26,11 +26,14 @@ if xspeed == 0 {
 if yspeed > 0 && face == UP {face = DOWN};
 if yspeed < 0 && face == DOWN {face = UP};
 	
+	
+
 sprite_index = sprite[face];
 
 //animate
 if xspeed==0 && yspeed==0 {
-	image_index = 3;
+	
+	sprite_index = spr_player_standingstill;
 }
 
 
