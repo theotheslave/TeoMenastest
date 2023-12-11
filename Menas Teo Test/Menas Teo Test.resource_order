@@ -5,9 +5,14 @@
     {"name":"Sequence","order":1,"path":"folders/Sequence.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Sprite21","order":4,"path":"sprites/Sprite21/Sprite21.yy",},
+    {"name":"Sprite20","order":2,"path":"sprites/Sprite20/Sprite20.yy",},
+    {"name":"oBlock","order":3,"path":"objects/oBlock/oBlock.yy",},
     {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
     {"name":"Sprite19","order":2,"path":"sprites/Sprite19/Sprite19.yy",},
     {"name":"sMessage","order":1,"path":"sprites/sMessage/sMessage.yy",},
+    {"name":"obj_dialogue","order":5,"path":"objects/obj_dialogue/obj_dialogue.yy",},
     {"name":"XDDDDDDDDDDDDDDDDD","order":1,"path":"tilesets/XDDDDDDDDDDDDDDDDD/XDDDDDDDDDDDDDDDDD.yy",},
   ],
 }

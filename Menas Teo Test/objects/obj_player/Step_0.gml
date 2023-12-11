@@ -23,7 +23,7 @@ else {
 
 if (keyboard_check_pressed(vk_space)) 
 {
- var inst = instance_place(x, y, obj_NPCParent); // check for collision
+ var inst = instance_place(x, y, Object2); // check for collision
  if (inst != noone) // if there is a collision, inst is set to the id of the collided instance
  {
   with (inst) 
