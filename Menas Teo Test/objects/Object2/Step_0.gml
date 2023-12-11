@@ -46,3 +46,8 @@ if (playerInRange && keyboard_check_pressed(vk_space)) {
     dialogueText = "";
     playerInRange = false;
 }
+if (!place_meeting(x, y, obj_player) && playerInRange) {
+    // Reset dialogue variables
+    dialogueText = "";
+    playerInRange = false;
+}
