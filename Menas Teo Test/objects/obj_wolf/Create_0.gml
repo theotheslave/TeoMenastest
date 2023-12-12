@@ -1,7 +1,7 @@
 depth=-y
 
-yspeedenemy= 3
-xspeedenemy= 3
+yspeedenemy= 10
+xspeedenemy= 10
 
 
 
