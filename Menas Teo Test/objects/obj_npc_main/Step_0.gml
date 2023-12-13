@@ -6,6 +6,7 @@ destX = x + irandom_range(-Range, Range)
 destY = y + irandom_range(-Range, Range)
 }
 
+
 if destX < 0 {destX =0}
 if destY < 0 {destY= 0}
 if destX > room_width {destX = room_width}
