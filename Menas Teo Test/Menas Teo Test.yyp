@@ -30,6 +30,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Sprites/walls.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Room 1","folderPath":"folders/Sprites/Room 1.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Path","folderPath":"folders/Path.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"mc_animation-Sheet.webp","CopyToMask":-1,"filePath":"datafiles",},
@@ -72,6 +74,7 @@
     {"id":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},},
     {"id":{"name":"spr_sign","path":"sprites/spr_sign/spr_sign.yy",},},
     {"id":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},
+    {"id":{"name":"path_guard","path":"paths/path_guard/path_guard.yy",},},
     {"id":{"name":"spr_gameover","path":"sprites/spr_gameover/spr_gameover.yy",},},
     {"id":{"name":"spr_npc_maincode","path":"sprites/spr_npc_maincode/spr_npc_maincode.yy",},},
     {"id":{"name":"obj_checkpoint_manager","path":"objects/obj_checkpoint_manager/obj_checkpoint_manager.yy",},},

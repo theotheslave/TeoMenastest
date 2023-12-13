@@ -19,6 +19,8 @@
     {"name":"walls","order":19,"path":"folders/Sprites/walls.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Room 1","order":23,"path":"folders/Sprites/Room 1.yy",},
+    {"name":"Path","order":16,"path":"folders/Path.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_transition","order":2,"path":"sprites/spr_transition/spr_transition.yy",},
