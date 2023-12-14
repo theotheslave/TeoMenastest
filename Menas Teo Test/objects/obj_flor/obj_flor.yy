@@ -1,18 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_portal",
+  "name": "obj_flor",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-<<<<<<< HEAD
-    "name": "transition",
-    "path": "folders/Objects/transition.yy",
-=======
     "name": "Objects",
     "path": "folders/Objects.yy",
->>>>>>> Vianna
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,21 +23,11 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-<<<<<<< HEAD
-  "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"PortaltoYK","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":5,},
-  ],
-  "solid": false,
-  "spriteId": {
-    "name": "spr_portal",
-    "path": "sprites/spr_portal/spr_portal.yy",
-=======
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "portal",
-    "path": "sprites/portal/portal.yy",
->>>>>>> Vianna
+    "name": "flor",
+    "path": "sprites/flor/flor.yy",
   },
   "spriteMaskId": null,
   "visible": true,

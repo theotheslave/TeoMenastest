@@ -28,6 +28,7 @@ else {
 	movespd = 5
 }
 
+<<<<<<< HEAD
 #endregion
 
 #region Sprite states
@@ -70,3 +71,18 @@ if place_meeting(x+xspeed, y+yspeed, [obj_par_obstacle, obj_wolf]) ==true {
 
 #endregion
 
+=======
+
+
+if (keyboard_check_pressed(vk_space)) 
+{
+ var inst = instance_place(x, y, obj_NPCParent); // check for collision
+ if (inst != noone) // if there is a collision, inst is set to the id of the collided instance
+ {
+  with (inst) 
+  {
+   instance_destroy(); 
+  }
+ }
+}
+>>>>>>> Vianna
