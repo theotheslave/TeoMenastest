@@ -5,6 +5,7 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"managers","order":23,"path":"folders/Objects/managers.yy",},
     {"name":"menu","order":21,"path":"folders/Objects/menu.yy",},
     {"name":"players and people","order":20,"path":"folders/Objects/players and people.yy",},
     {"name":"transition","order":19,"path":"folders/Objects/transition.yy",},
@@ -21,7 +22,6 @@
     {"name":"walls","order":19,"path":"folders/Sprites/walls.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"managers","order":23,"path":"folders/Objects/managers.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_transition","order":2,"path":"sprites/spr_transition/spr_transition.yy",},
@@ -61,5 +61,6 @@
     {"name":"spr_guards","order":6,"path":"sprites/spr_guards/spr_guards.yy",},
     {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
     {"name":"sc_dialogueManager","order":1,"path":"scripts/sc_dialogueManager/sc_dialogueManager.yy",},
+    {"name":"Sprite20","order":17,"path":"sprites/Sprite20/Sprite20.yy",},
   ],
 }

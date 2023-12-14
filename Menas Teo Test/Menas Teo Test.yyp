@@ -16,6 +16,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"managers","folderPath":"folders/Objects/managers.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"menu","folderPath":"folders/Objects/menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"players and people","folderPath":"folders/Objects/players and people.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"transition","folderPath":"folders/Objects/transition.yy",},
@@ -32,7 +33,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Sprites/walls.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"managers","folderPath":"folders/Objects/managers.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"mc_animation-Sheet.webp","CopyToMask":-1,"filePath":"datafiles",},
@@ -92,6 +92,7 @@
     {"id":{"name":"spr_player_down","path":"sprites/spr_player_down/spr_player_down.yy",},},
     {"id":{"name":"room_begin","path":"rooms/room_begin/room_begin.yy",},},
     {"id":{"name":"sc_dialogueManager","path":"scripts/sc_dialogueManager/sc_dialogueManager.yy",},},
+    {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
   ],
   "RoomOrderNodes": [
