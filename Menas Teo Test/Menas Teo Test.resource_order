@@ -56,6 +56,7 @@
     {"name":"spr_player_standingstill","order":3,"path":"sprites/spr_player_standingstill/spr_player_standingstill.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
+    {"name":"obj_game","order":22,"path":"objects/obj_game/obj_game.yy",},
     {"name":"spr_guards","order":6,"path":"sprites/spr_guards/spr_guards.yy",},
     {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
     {"name":"sc_dialogueManager","order":1,"path":"scripts/sc_dialogueManager/sc_dialogueManager.yy",},
