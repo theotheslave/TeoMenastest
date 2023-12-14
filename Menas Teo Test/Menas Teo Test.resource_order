@@ -47,6 +47,7 @@
     {"name":"room_gameover","order":4,"path":"rooms/room_gameover/room_gameover.yy",},
     {"name":"spr_sign","order":3,"path":"sprites/spr_sign/spr_sign.yy",},
     {"name":"room_outside","order":1,"path":"rooms/room_outside/room_outside.yy",},
+    {"name":"room_main_menu","order":6,"path":"rooms/room_main_menu/room_main_menu.yy",},
     {"name":"spr_gameover","order":2,"path":"sprites/spr_gameover/spr_gameover.yy",},
     {"name":"spr_npc_maincode","order":5,"path":"sprites/spr_npc_maincode/spr_npc_maincode.yy",},
     {"name":"obj_checkpoint_manager","order":2,"path":"objects/obj_checkpoint_manager/obj_checkpoint_manager.yy",},
@@ -57,5 +58,6 @@
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"spr_guards","order":6,"path":"sprites/spr_guards/spr_guards.yy",},
     {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
+    {"name":"sc_dialogueManager","order":1,"path":"scripts/sc_dialogueManager/sc_dialogueManager.yy",},
   ],
 }
