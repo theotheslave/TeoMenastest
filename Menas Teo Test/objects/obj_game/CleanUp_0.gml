@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-//clears surfaces
-=======
 /// Clear event for pause
->>>>>>> Stashed changes
 if(surface_exists(psurf))
 		{
 			surface_free(psurf)
@@ -17,8 +13,5 @@ if(surface_exists(psurf))
 
 
 
-<<<<<<< Updated upstream
-=======
 
 
->>>>>>> Stashed changes
