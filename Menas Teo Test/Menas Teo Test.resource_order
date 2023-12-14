@@ -21,6 +21,7 @@
     {"name":"walls","order":19,"path":"folders/Sprites/walls.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"managers","order":23,"path":"folders/Objects/managers.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_transition","order":2,"path":"sprites/spr_transition/spr_transition.yy",},
@@ -30,6 +31,7 @@
     {"name":"spr_restart","order":1,"path":"sprites/spr_restart/spr_restart.yy",},
     {"name":"obj_checkpoint","order":3,"path":"objects/obj_checkpoint/obj_checkpoint.yy",},
     {"name":"obj_portal","order":2,"path":"objects/obj_portal/obj_portal.yy",},
+    {"name":"obj_dialogue_manager","order":1,"path":"objects/obj_dialogue_manager/obj_dialogue_manager.yy",},
     {"name":"room_YKbegin","order":3,"path":"rooms/room_YKbegin/room_YKbegin.yy",},
     {"name":"obj_stairs","order":4,"path":"objects/obj_stairs/obj_stairs.yy",},
     {"name":"obj_gameover","order":1,"path":"objects/obj_gameover/obj_gameover.yy",},
@@ -50,7 +52,6 @@
     {"name":"room_main_menu","order":6,"path":"rooms/room_main_menu/room_main_menu.yy",},
     {"name":"spr_gameover","order":2,"path":"sprites/spr_gameover/spr_gameover.yy",},
     {"name":"spr_npc_maincode","order":5,"path":"sprites/spr_npc_maincode/spr_npc_maincode.yy",},
-    {"name":"obj_checkpoint_manager","order":2,"path":"objects/obj_checkpoint_manager/obj_checkpoint_manager.yy",},
     {"name":"spr_closet","order":1,"path":"sprites/spr_closet/spr_closet.yy",},
     {"name":"obj_npc_main","order":2,"path":"objects/obj_npc_main/obj_npc_main.yy",},
     {"name":"spr_player_standingstill","order":3,"path":"sprites/spr_player_standingstill/spr_player_standingstill.yy",},
