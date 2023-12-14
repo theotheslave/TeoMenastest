@@ -1,4 +1,3 @@
-//Draw Event for NPC
 draw_self();
 
 // Draw dialogue text
@@ -16,11 +15,11 @@ if (inDialogue) {
 
     // Stop NPC actions during dialogue (replace this with your actual NPC actions)
     // For example, you might want to pause animations or movement
-    spd = 0;
+    path_speed = 0
     // npc_movement_speed = 0;
 } else if (playerInRange) {
     draw_text(x, y - 30, "Press Space to talk");
     // Resume NPC actions after dialogue is finished
-    spd = originalspeed;
+   path_speed = npcspd
     // npc_movement_speed = original_movement_speed;
 }
