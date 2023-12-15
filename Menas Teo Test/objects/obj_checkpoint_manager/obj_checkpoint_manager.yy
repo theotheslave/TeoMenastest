@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "managers",
-    "path": "folders/Objects/managers.yy",
+    "name": "menu",
+    "path": "folders/Objects/menu.yy",
   },
   "parentObjectId": null,
   "persistent": true,

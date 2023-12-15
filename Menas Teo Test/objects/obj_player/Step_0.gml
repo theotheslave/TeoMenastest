@@ -70,13 +70,3 @@ if place_meeting(x+xspeed, y+yspeed, [obj_par_obstacle, obj_wolf]) ==true {
 
 #endregion
 
-#region Dialogue
-
-if place_meeting (x, y, [obj_guards, obj_npc_main]) && global.inDialogue {
-	
-	movespd = 0;
-	
-}
-
-#endregion
-
