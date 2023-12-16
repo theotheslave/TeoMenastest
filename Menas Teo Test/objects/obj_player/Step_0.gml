@@ -21,11 +21,10 @@ x = xspeed + x;
 y = yspeed + y;
 
 if (shift_sprint)  {
-	movespd = movespd + 3
-	movespd = max(5,8)
+	movespd = 5
 }
 else {
-	movespd = 5
+	movespd = origspd
 }
 
 #endregion

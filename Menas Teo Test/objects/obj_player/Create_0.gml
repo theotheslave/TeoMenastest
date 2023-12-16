@@ -8,6 +8,7 @@ sprite[DOWN] = spr_player_down;
 face = DOWN
 
 movespd = 3
+origspd = 3
 
 xspeed = 0
 yspeed = 0
