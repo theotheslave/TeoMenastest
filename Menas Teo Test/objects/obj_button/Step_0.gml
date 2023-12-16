@@ -3,13 +3,13 @@
  
 #region Collision checks
  
-if (place_meeting (x, y, obj_player) && global.current_button <= buttonID && !playerInRange) {
-	playerInRange = true;
+if (place_meeting (x, y, obj_player) && global.current_button <= buttonID && !playerCheck) {
+	playerCheck = true;
 	text = "Press Space to push";
 }
 
-if (!place_meeting (x, y, obj_player) && playerInRange) {
-	playerInRange = false;
+if (!place_meeting (x, y, obj_player) && playerCheck) {
+	playerCheck = false;
 	text = "";
 }
 
@@ -17,12 +17,12 @@ if (!place_meeting (x, y, obj_player) && playerInRange) {
 
 #region Key checks
 
-if (keyboard_check (vk_space) && !pressed && playerInRange && global.current_button = buttonID) {
+if (keyboard_check (vk_space) && !pressed && playerCheck && global.current_button = buttonID) {
 	pressed = true;
 	global.current_button ++;
 }
 
-if (keyboard_check (vk_space) && !pressed && playerInRange && global.current_button < buttonID) {
+if (keyboard_check (vk_space) && !pressed && playerCheck && global.current_button < buttonID) {
 	global.current_button = 0;
 }
 
@@ -38,7 +38,7 @@ if keyboard_check (ord("R")) {
 
 if pressed {
 	state = PRESSED;
-	playerInRange = false;
+	playerCheck = false;
 }
 
 if !pressed {

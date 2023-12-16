@@ -5,6 +5,6 @@ sprite[PRESSED] = spr_button_pressed
 
 state = UNPRESSED;
 
-playerInRange = false;
+playerCheck = false;
 text = "";
 pressed = false;
