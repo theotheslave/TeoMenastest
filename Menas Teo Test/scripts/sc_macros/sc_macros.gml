@@ -2,3 +2,5 @@
 #macro UP 1
 #macro LEFT 2
 #macro DOWN 3
+#macro UNPRESSED 4
+#macro PRESSED 5
