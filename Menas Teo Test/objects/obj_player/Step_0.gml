@@ -62,7 +62,7 @@ if xspeed==0 && yspeed==0 {
 
 #region Collisions
 
-if place_meeting(x+xspeed, y+yspeed, obj_void) {
+if place_meeting(x+xspeed, y+yspeed, obj_par_obstacle) {
 	xspeed = 0;
 	yspeed = 0;
 }
