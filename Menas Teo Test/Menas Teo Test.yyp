@@ -32,6 +32,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"transition","folderPath":"folders/Sprites/transition.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Sprites/walls.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSet","folderPath":"folders/TileSet.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"main menu","folderPath":"folders/Sprites/main menu.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"mc_animation-Sheet.webp","CopyToMask":-1,"filePath":"datafiles",},
@@ -69,6 +70,7 @@
     {"id":{"name":"scr_topics","path":"scripts/scr_topics/scr_topics.yy",},},
     {"id":{"name":"obj_doorout","path":"objects/obj_doorout/obj_doorout.yy",},},
     {"id":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},},
+    {"id":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},},
     {"id":{"name":"obj_bed","path":"objects/obj_bed/obj_bed.yy",},},
     {"id":{"name":"obj_par_obstacle","path":"objects/obj_par_obstacle/obj_par_obstacle.yy",},},
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},},
@@ -121,6 +123,7 @@
     {"roomId":{"name":"room_forest","path":"rooms/room_forest/room_forest.yy",},},
     {"roomId":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},},
     {"roomId":{"name":"room_kingsroom","path":"rooms/room_kingsroom/room_kingsroom.yy",},},
+    {"roomId":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
