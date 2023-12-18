@@ -15,5 +15,5 @@ origspd = 3
 xspeed = 0
 yspeed = 0
 
-global.hp = 3
-
+global.hp = 2
+cancontrol = true

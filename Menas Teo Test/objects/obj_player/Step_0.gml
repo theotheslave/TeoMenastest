@@ -13,7 +13,7 @@ shift_sprint = keyboard_check(vk_shift)
 #region Movement
 
 //Code to make the player move in ways
-
+if(cancontrol){
 xspeed = (right_key - left_key) * movespd;
 yspeed = (down_key - up_key) * movespd;
 
@@ -26,7 +26,11 @@ if (shift_sprint)  {
 else {
 	movespd = origspd
 }
-
+}
+if(!cancontrol){
+	xspeed = 0
+	yspeed = 0
+}
 #endregion
 
 #region Sprite states

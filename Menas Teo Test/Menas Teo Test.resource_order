@@ -20,6 +20,7 @@
     {"name":"players","order":2,"path":"folders/Sprites/players.yy",},
     {"name":"transition","order":1,"path":"folders/Sprites/transition.yy",},
     {"name":"TileSet","order":17,"path":"folders/TileSet.yy",},
+    {"name":"Obstacles","order":26,"path":"folders/Objects/Obstacles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_transition","order":2,"path":"sprites/spr_transition/spr_transition.yy",},
@@ -72,7 +73,6 @@
     {"name":"Trap3","order":4,"path":"sprites/Trap3/Trap3.yy",},
     {"name":"Trap4","order":5,"path":"sprites/Trap4/Trap4.yy",},
     {"name":"Trap5","order":6,"path":"sprites/Trap5/Trap5.yy",},
-    {"name":"Trap","order":25,"path":"objects/Trap/Trap.yy",},
     {"name":"scr_typing","order":2,"path":"scripts/scr_typing/scr_typing.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},

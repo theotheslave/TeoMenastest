@@ -1,8 +1,7 @@
 //damaging
 
-show_debug_message(global.hp)
+
 if(collidedtrap == false){
-global.hp --
 image_speed = 0.3
 sprite_index = Trap2
 sprite_index = Trap3
@@ -17,7 +16,6 @@ if(collidedtrap == true){
 if (global.hp <= 0){
 	room_restart()
 }
-
 
 
 
