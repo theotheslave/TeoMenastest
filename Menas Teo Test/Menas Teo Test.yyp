@@ -39,7 +39,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"spr_transition","path":"sprites/spr_transition/spr_transition.yy",},},
@@ -54,6 +54,7 @@
     {"id":{"name":"button_manager","path":"objects/button_manager/button_manager.yy",},},
     {"id":{"name":"spr_checkpoin","path":"sprites/spr_checkpoin/spr_checkpoin.yy",},},
     {"id":{"name":"Trap1","path":"sprites/Trap1/Trap1.yy",},},
+    {"id":{"name":"obj_dialoguekingsroom","path":"objects/obj_dialoguekingsroom/obj_dialoguekingsroom.yy",},},
     {"id":{"name":"obj_void","path":"objects/obj_void/obj_void.yy",},},
     {"id":{"name":"spr_restart","path":"sprites/spr_restart/spr_restart.yy",},},
     {"id":{"name":"obj_guards","path":"objects/obj_guards/obj_guards.yy",},},
@@ -122,14 +123,14 @@
     {"id":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"room_forest","path":"rooms/room_forest/room_forest.yy",},},
+    {"roomId":{"name":"room_kingsroom","path":"rooms/room_kingsroom/room_kingsroom.yy",},},
     {"roomId":{"name":"room_begin","path":"rooms/room_begin/room_begin.yy",},},
+    {"roomId":{"name":"room_forest","path":"rooms/room_forest/room_forest.yy",},},
     {"roomId":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
     {"roomId":{"name":"room_dungeon","path":"rooms/room_dungeon/room_dungeon.yy",},},
     {"roomId":{"name":"room_YKbegin","path":"rooms/room_YKbegin/room_YKbegin.yy",},},
     {"roomId":{"name":"room_dialogue","path":"rooms/room_dialogue/room_dialogue.yy",},},
     {"roomId":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},},
-    {"roomId":{"name":"room_kingsroom","path":"rooms/room_kingsroom/room_kingsroom.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
