@@ -6,6 +6,7 @@
     {"name":"main menu","order":26,"path":"folders/Objects/main menu.yy",},
     {"name":"managers","order":24,"path":"folders/Objects/managers.yy",},
     {"name":"menu","order":21,"path":"folders/Objects/menu.yy",},
+    {"name":"Obstacles","order":26,"path":"folders/Objects/Obstacles.yy",},
     {"name":"players and people","order":20,"path":"folders/Objects/players and people.yy",},
     {"name":"transition","order":19,"path":"folders/Objects/transition.yy",},
     {"name":"walls","order":18,"path":"folders/Objects/walls.yy",},
@@ -22,7 +23,6 @@
     {"name":"players","order":2,"path":"folders/Sprites/players.yy",},
     {"name":"transition","order":1,"path":"folders/Sprites/transition.yy",},
     {"name":"TileSet","order":17,"path":"folders/TileSet.yy",},
-    {"name":"Obstacles","order":26,"path":"folders/Objects/Obstacles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_transition","order":2,"path":"sprites/spr_transition/spr_transition.yy",},
