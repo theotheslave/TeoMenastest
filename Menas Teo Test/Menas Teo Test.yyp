@@ -14,6 +14,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"dialogue system","folderPath":"folders/Objects/dialogue system.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"main menu","folderPath":"folders/Objects/main menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"managers","folderPath":"folders/Objects/managers.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"menu","folderPath":"folders/Objects/menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"players and people","folderPath":"folders/Objects/players and people.yy",},
@@ -27,13 +28,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"button","folderPath":"folders/Sprites/button.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"dialogue","folderPath":"folders/Sprites/dialogue.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Forest","folderPath":"folders/Sprites/Forest.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"main menu","folderPath":"folders/Sprites/main menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"menu","folderPath":"folders/Sprites/menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"players","folderPath":"folders/Sprites/players.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"transition","folderPath":"folders/Sprites/transition.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Sprites/walls.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSet","folderPath":"folders/TileSet.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"main menu","folderPath":"folders/Sprites/main menu.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"main menu","folderPath":"folders/Objects/main menu.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"mc_animation-Sheet.webp","CopyToMask":-1,"filePath":"datafiles",},
@@ -41,7 +41,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"spr_transition","path":"sprites/spr_transition/spr_transition.yy",},},
