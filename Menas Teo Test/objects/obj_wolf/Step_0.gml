@@ -1,12 +1,16 @@
 if (obj_player.y <= obj_wolf.y ){
 move_towards_point(obj_player.x,obj_player.y, xspeedenemy);
 }
+if (obj_player.y >= obj_wolf.y){
 
-if place_meeting(x+xspeedenemy,y+yspeedenemy,spr_TileSet) ==true {
-	xspeedenemy = 5
-	yspeedenemy = 5
+move_towards_point(obj_player.x, obj_player.y, xspeedenemy)
+
+}
+if place_meeting(x+xspeedenemy,y+yspeedenemy,obj_void) ==true {
+	xspeedenemy = 4
+	yspeedenemy = 4
 }
 else{
-yspeedenemy= 7
-xspeedenemy= 7
+yspeedenemy= 5
+xspeedenemy= 5
 }
