@@ -20,7 +20,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"players and people","folderPath":"folders/Objects/players and people.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"transition","folderPath":"folders/Objects/transition.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Objects/walls.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Path","folderPath":"folders/Rooms/Path.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Path","folderPath":"folders/Path.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"scr_dialogue","folderPath":"folders/Scripts/scr_dialogue.yy",},
