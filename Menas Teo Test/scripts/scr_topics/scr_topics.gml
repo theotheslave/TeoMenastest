@@ -25,7 +25,12 @@ global.topics[$ "ConversationWithMom"] = [
 
 
 global.topics[$ "KingsRoom"] = [
-	TEXT(""),
+	TEXT("BOW BEFORE THE KING!! YOU SIMPLETON!"),
+	TEXT("..."),
+	TEXT("....."),
+	TEXT("What is your objective in this kingdom? Who are you? Where do you come from? Explain yourself!!"),
+	TEXT("...."),
+	TEXT("......"),
 	
 	];
 

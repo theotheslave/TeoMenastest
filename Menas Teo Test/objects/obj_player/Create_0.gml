@@ -16,4 +16,8 @@ xspeed = 0
 yspeed = 0
 
 global.hp = 2
-cancontrol = true
+global.cancontrol = true
+global.freeplayer = 0
+trapped = false
+
+trapcounter = 0
