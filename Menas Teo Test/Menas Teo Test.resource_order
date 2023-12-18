@@ -34,6 +34,7 @@
     {"name":"room_kingsroom","order":6,"path":"rooms/room_kingsroom/room_kingsroom.yy",},
     {"name":"obj_portal","order":2,"path":"objects/obj_portal/obj_portal.yy",},
     {"name":"room_YKbegin","order":3,"path":"rooms/room_YKbegin/room_YKbegin.yy",},
+    {"name":"fnt_npc","order":2,"path":"fonts/fnt_npc/fnt_npc.yy",},
     {"name":"obj_stairs","order":4,"path":"objects/obj_stairs/obj_stairs.yy",},
     {"name":"spr_groundForest","order":5,"path":"sprites/spr_groundForest/spr_groundForest.yy",},
     {"name":"obj_gameover","order":1,"path":"objects/obj_gameover/obj_gameover.yy",},
