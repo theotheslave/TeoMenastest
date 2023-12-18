@@ -1,4 +1,4 @@
-//draw the box
+	//draw the box
 draw_sprite_stretched(sprite_index, 0, x, y, width, height);
 
 //text
