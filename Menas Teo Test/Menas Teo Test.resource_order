@@ -3,6 +3,7 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"dialogue system","order":22,"path":"folders/Objects/dialogue system.yy",},
+    {"name":"main menu","order":26,"path":"folders/Objects/main menu.yy",},
     {"name":"managers","order":24,"path":"folders/Objects/managers.yy",},
     {"name":"menu","order":21,"path":"folders/Objects/menu.yy",},
     {"name":"players and people","order":20,"path":"folders/Objects/players and people.yy",},
@@ -21,7 +22,6 @@
     {"name":"players","order":2,"path":"folders/Sprites/players.yy",},
     {"name":"transition","order":1,"path":"folders/Sprites/transition.yy",},
     {"name":"TileSet","order":17,"path":"folders/TileSet.yy",},
-    {"name":"main menu","order":26,"path":"folders/Objects/main menu.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_transition","order":2,"path":"sprites/spr_transition/spr_transition.yy",},
