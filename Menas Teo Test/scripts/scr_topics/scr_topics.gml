@@ -18,7 +18,7 @@ global.topics [$ "Start"] = [
 
 global.topics[$ "ConversationWithMom"] = [
 	TEXT("Goodmorning son!"),
-	
+	TEXT("Before you go out, I have to tell you that you should watch out!"),
 	
 	
 ];
