@@ -62,6 +62,7 @@
     {"id":{"name":"room_YKbegin","path":"rooms/room_YKbegin/room_YKbegin.yy",},},
     {"id":{"name":"sc_macros","path":"scripts/sc_macros/sc_macros.yy",},},
     {"id":{"name":"obj_doorin","path":"objects/obj_doorin/obj_doorin.yy",},},
+    {"id":{"name":"fnt_npc","path":"fonts/fnt_npc/fnt_npc.yy",},},
     {"id":{"name":"obj_stairs","path":"objects/obj_stairs/obj_stairs.yy",},},
     {"id":{"name":"spr_groundForest","path":"sprites/spr_groundForest/spr_groundForest.yy",},},
     {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
