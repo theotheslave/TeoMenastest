@@ -14,4 +14,21 @@ global.topics [$ "Start"] = [
 	
 ];
 
-//when can put more labels/topics in here just label them like 'global.topics [$ "..."] = [ TEXT("..."), ];
+//when can put more labels/topics in here just label them like 'global.topics [$ "..."] = [ TEXT("
+
+global.topics[$ "ConversationWithMom"] = [
+	TEXT("Goodmorning son!"),
+	TEXT("Before you go out, I have to tell you that you should watch out!"),
+	
+	
+];
+
+
+
+
+
+
+
+
+
+

@@ -14,7 +14,8 @@ function type(x, y, text, progress, width) {
 	var draw_x = 0;
 	var draw_y = 0;
 	
-	for (var i = 1; i <= progress; i++){
+	for (var i = 1; i <= progress; i++){ //i in this case is a temporarily value used to 
+		//store the integrer value of the current position in the for loop (that only works in this loop)
 		var char = string_char_at(text, i);
 		
 		//Handle normal line breaks

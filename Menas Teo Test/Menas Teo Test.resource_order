@@ -36,6 +36,7 @@
     {"name":"room_kingsroom","order":6,"path":"rooms/room_kingsroom/room_kingsroom.yy",},
     {"name":"obj_portal","order":2,"path":"objects/obj_portal/obj_portal.yy",},
     {"name":"room_YKbegin","order":3,"path":"rooms/room_YKbegin/room_YKbegin.yy",},
+    {"name":"fnt_npc","order":2,"path":"fonts/fnt_npc/fnt_npc.yy",},
     {"name":"obj_stairs","order":4,"path":"objects/obj_stairs/obj_stairs.yy",},
     {"name":"spr_groundForest","order":5,"path":"sprites/spr_groundForest/spr_groundForest.yy",},
     {"name":"obj_gameover","order":1,"path":"objects/obj_gameover/obj_gameover.yy",},
@@ -62,6 +63,7 @@
     {"name":"room_forest","order":1,"path":"rooms/room_forest/room_forest.yy",},
     {"name":"sc_button","order":2,"path":"scripts/sc_button/sc_button.yy",},
     {"name":"TileSet3","order":2,"path":"tilesets/TileSet3/TileSet3.yy",},
+    {"name":"obj_game","order":1,"path":"objects/obj_game/obj_game.yy",},
     {"name":"obj_button","order":23,"path":"objects/obj_button/obj_button.yy",},
     {"name":"spr_gameover","order":2,"path":"sprites/spr_gameover/spr_gameover.yy",},
     {"name":"spr_npc_maincode","order":5,"path":"sprites/spr_npc_maincode/spr_npc_maincode.yy",},
@@ -76,6 +78,7 @@
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"spr_button_pressed","order":1,"path":"sprites/spr_button_pressed/spr_button_pressed.yy",},
     {"name":"spr_guards","order":6,"path":"sprites/spr_guards/spr_guards.yy",},
+    {"name":"PauseFont","order":1,"path":"fonts/PauseFont/PauseFont.yy",},
     {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
   ],
 }
