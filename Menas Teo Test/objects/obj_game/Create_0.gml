@@ -4,8 +4,8 @@ global.curworld = 0
 global.curgoal = 0
 
 global.spause = false
-resW = 1366
-resH = 768
+resW = 1920
+resH = 1080
 pauseoption = ["Continue", "Main menu", "Exit"]
 pauseOptionSelected = 0
 paused_surf = -1

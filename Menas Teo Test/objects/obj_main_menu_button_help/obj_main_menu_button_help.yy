@@ -1,18 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Trap",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_main_menu_button_help",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Obstacles",
-    "path": "folders/Objects/Obstacles.yy",
+    "name": "main menu",
+    "path": "folders/Objects/main menu.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_main_menu_button_parent",
+    "path": "objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Trap1",
-    "path": "sprites/Trap1/Trap1.yy",
+    "name": "spr_main_menu_button",
+    "path": "sprites/spr_main_menu_button/spr_main_menu_button.yy",
   },
   "spriteMaskId": null,
   "visible": true,
