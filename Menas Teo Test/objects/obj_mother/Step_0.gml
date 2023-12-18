@@ -23,14 +23,13 @@ destY = y
 
 if (place_meeting(x, y, obj_player) && !playerInRange) {
     playerInRange = true;
-    dialogueText = "Hello son! Press Space to talk.";
+    dialogueText = "Press Space to talk.";
 }
 
 
 if (playerInRange && keyboard_check_pressed(vk_space)) {
     // You can replace the following line with the actual dialogue you want
-    show_message("Mother: " + " Goodmorning son!");
-
+    startDialogue("ConversationWithMom")
     // Reset dialogue variables
     dialogueText = "";
     playerInRange = false;
