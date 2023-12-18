@@ -24,6 +24,10 @@ global.topics[$ "ConversationWithMom"] = [
 ];
 
 
+global.topics[$ "KingsRoom"] = [
+	TEXT(""),
+	
+	];
 
 
 
