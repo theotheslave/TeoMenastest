@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Obstacles",
-    "path": "folders/Objects/Obstacles.yy",
+    "name": "Menas Teo Test",
+    "path": "Menas Teo Test.yyp",
   },
   "parentObjectId": null,
   "persistent": false,
