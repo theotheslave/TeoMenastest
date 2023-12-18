@@ -62,12 +62,14 @@ if xspeed==0 && yspeed==0 {
 
 #region Collisions
 
+<<<<<<< HEAD
 if place_meeting(x+xspeed, y+yspeed, obj_void) {
+=======
+if place_meeting(x+xspeed, y+yspeed, [obj_par_obstacle, obj_wolf]) ==true {
+>>>>>>> parent of 916f311 (Merge branch 'Menas' into Sven)
 	xspeed = 0;
 	yspeed = 0;
 }
 
 #endregion
-
-
 

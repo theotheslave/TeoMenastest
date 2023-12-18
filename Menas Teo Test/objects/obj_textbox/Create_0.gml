@@ -35,7 +35,6 @@ text = "";
 text_progress = 0;
 text_length = 0;
 
-
 ///Methods
 //method is something defined inside an object. !!Generally you dont need to call them manually!!
 

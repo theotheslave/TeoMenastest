@@ -1,5 +1,3 @@
-depth=-y
-
 //setting up sprites for facing 
 sprite[RIGHT] = spr_player_right;
 sprite[UP] = spr_player_up;
@@ -15,4 +13,4 @@ origspd = 3
 xspeed = 0
 yspeed = 0
 
-
+depth=-y

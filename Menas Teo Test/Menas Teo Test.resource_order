@@ -9,8 +9,8 @@
     {"name":"players and people","order":20,"path":"folders/Objects/players and people.yy",},
     {"name":"transition","order":19,"path":"folders/Objects/transition.yy",},
     {"name":"walls","order":18,"path":"folders/Objects/walls.yy",},
-    {"name":"Path","order":8,"path":"folders/Rooms/Path.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Path","order":8,"path":"folders/Rooms/Path.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"scr_dialogue","order":1,"path":"folders/Scripts/scr_dialogue.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
@@ -76,6 +76,5 @@
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"spr_button_pressed","order":1,"path":"sprites/spr_button_pressed/spr_button_pressed.yy",},
     {"name":"spr_guards","order":6,"path":"sprites/spr_guards/spr_guards.yy",},
-    {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
   ],
 }
