@@ -29,7 +29,16 @@ if(keyActivate)
         }
         } break;
         case 1: //Main Menu
+        {  global.spause = false
+			room_goto(room_main_menu);
+			/* if(surface_exists(psurf))
         {
+            surface_free(psurf)
+        }
+        if(buffer_exists(psurfbuffer)) 
+        {
+            buffer_delete(psurfbuffer)
+        }*/
         } break;
         case 2: //Quit
         {

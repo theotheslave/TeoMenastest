@@ -31,3 +31,5 @@ if keyboard_check_pressed(vk_escape)
         buffer_get_surface(psurfbuffer,psurf,0)
     }
     }
+	
+	
