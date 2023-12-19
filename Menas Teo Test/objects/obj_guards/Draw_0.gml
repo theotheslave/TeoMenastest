@@ -20,6 +20,6 @@ if (inDialogue) {
 } else if (playerInRange) {
     draw_text(x, y - 30, "Press Space to talk");
     // Resume NPC actions after dialogue is finished
-   path_speed = npcspd
-    // npc_movement_speed = original_movement_speed;
+	path_speed = npcspd
+
 }
