@@ -13,7 +13,7 @@ shift_sprint = keyboard_check(vk_shift)
 #region Movement
 
 //Code to make the player move in ways
-if(cancontrol){
+if(global.cancontrol){
 xspeed = (right_key - left_key) * movespd;
 yspeed = (down_key - up_key) * movespd;
 
@@ -27,7 +27,7 @@ else {
 	movespd = origspd
 }
 }
-if(!cancontrol){
+if(!global.cancontrol){
 	xspeed = 0
 	yspeed = 0
 }
@@ -72,6 +72,23 @@ if place_meeting(x+xspeed, y+yspeed, obj_void) {
 }
 
 #endregion
+
+if(place_meeting(x,y,obj_trap))
+{
+	trapped = true
+	global.cancontrol = false
+}
+if (trapped && keyboard_check_pressed(ord("Q")))
+{
+	trapcounter++
+}
+if(trapcounter == 3)
+{
+	instance_destroy(Trap)
+	trapcounter = 0
+	global.cancontrol = true
+	trapped = false
+}
 
 
 

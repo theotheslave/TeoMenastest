@@ -11,11 +11,11 @@ sprite_index = Trap6
 collidedtrap = true
 }
 if(collidedtrap == true){
-	global.hp = global.hp
+	global.cancontrol = false
 }
-if (global.hp <= 0){
-	room_restart()
-}
+
+
+
 
 
 

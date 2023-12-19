@@ -1,1 +1,2 @@
 cancontrol = false
+Trap = other
