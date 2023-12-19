@@ -27,16 +27,16 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"scr_dialogue","folderPath":"folders/Scripts/scr_dialogue.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"button","folderPath":"folders/Sprites/button.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Characters","folderPath":"folders/Sprites/Characters.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"dialogue","folderPath":"folders/Sprites/dialogue.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Forest","folderPath":"folders/Sprites/Forest.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"main menu","folderPath":"folders/Sprites/main menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"menu","folderPath":"folders/Sprites/menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"players","folderPath":"folders/Sprites/players.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Sprites/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"transition","folderPath":"folders/Sprites/transition.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Sprites/walls.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSet","folderPath":"folders/TileSet.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Sprites/Rooms.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Characters","folderPath":"folders/Sprites/Characters.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"mc_animation-Sheet.webp","CopyToMask":-1,"filePath":"datafiles",},
@@ -44,7 +44,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"spr_transition","path":"sprites/spr_transition/spr_transition.yy",},},

@@ -50,8 +50,17 @@ global.topics[$ "KingsRoom"] = [
 	
 	
 	];
-
-
+	
+global.topics[$ "YKBegin"] = [
+	TEXT("Guard: Who are you and where did you come from"),
+	TEXT("You: Ughh... Where am I"),
+	TEXT("Guard: You are in the Yellow Kingdom, now explain yourself!"),
+	TEXT("The Guard notices the Amulet the MC is carrying"),
+	TEXT("Guard: ... Nevermind. Please come with me!"),
+	TEXT("Guard: I'll show you to the King!"),
+	TEXT("You: Uhmm... Okay?"),
+	
+	];
 
 
 
