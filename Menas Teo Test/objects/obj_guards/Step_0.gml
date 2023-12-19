@@ -23,3 +23,8 @@ if (inDialogue && keyboard_check_pressed(vk_space)) {
         currentDialogueIndex = 0; // Reset to the beginning if at the end
     }
 }
+
+if(place_meeting(x,y,obj_kingroom))
+{
+instance_destroy()
+}

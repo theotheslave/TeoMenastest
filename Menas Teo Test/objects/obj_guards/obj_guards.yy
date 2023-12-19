@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_guards",
-    "path": "sprites/spr_guards/spr_guards.yy",
+    "name": "spr_guard",
+    "path": "sprites/spr_guard/spr_guard.yy",
   },
   "spriteMaskId": null,
   "visible": true,
