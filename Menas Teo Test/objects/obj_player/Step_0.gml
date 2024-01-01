@@ -91,6 +91,20 @@ if(trapcounter == 3)
 }
 
 
+// player equip bow
+if(global.equippedbow && keyboard_check_pressed(ord("Q")) && global.collectedbow > 0)
+{
+	global.equippedbow = false
+	global.abilitytoshoot = false
+	show_debug_message("unequipped")
+}
+if(!global.equippedbow && keyboard_check_pressed(ord("E")) && global.collectedbow > 0)
+{
+	global.equippedbow = true
+	global.abilitytoshoot = true
+	show_debug_message("equipped")
+}
+
 
 
 
