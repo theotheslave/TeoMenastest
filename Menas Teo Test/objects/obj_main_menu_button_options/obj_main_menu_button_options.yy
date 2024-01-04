@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_main_menu_button_help",
+  "name": "obj_main_menu_button_options",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

@@ -22,6 +22,8 @@
     {"name":"Rooms","order":7,"path":"folders/Sprites/Rooms.yy",},
     {"name":"transition","order":1,"path":"folders/Sprites/transition.yy",},
     {"name":"TileSet","order":17,"path":"folders/TileSet.yy",},
+    {"name":"Main Menu","order":9,"path":"folders/Rooms/Main Menu.yy",},
+    {"name":"Sounds","order":18,"path":"folders/Sounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_transition","order":2,"path":"sprites/spr_transition/spr_transition.yy",},
@@ -86,6 +88,7 @@
     {"name":"obj_testYKBEGIN","order":3,"path":"objects/obj_testYKBEGIN/obj_testYKBEGIN.yy",},
     {"name":"obj_carpet","order":6,"path":"objects/obj_carpet/obj_carpet.yy",},
     {"name":"Kitchen_chair_front_bw","order":2,"path":"sprites/Kitchen_chair_front_bw/Kitchen_chair_front_bw.yy",},
+    {"name":"room_controls","order":1,"path":"rooms/room_controls/room_controls.yy",},
     {"name":"spr_gameover","order":2,"path":"sprites/spr_gameover/spr_gameover.yy",},
     {"name":"obj_wolfstop","order":7,"path":"objects/obj_wolfstop/obj_wolfstop.yy",},
     {"name":"spr_npc_maincode","order":5,"path":"sprites/spr_npc_maincode/spr_npc_maincode.yy",},

@@ -3,7 +3,9 @@
 
 
 
+
+
 // Inherit the parent event
 event_inherited();
 
-game_end();
+room_goto (room_begin);
