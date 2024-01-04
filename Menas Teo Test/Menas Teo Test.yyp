@@ -101,6 +101,7 @@
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_crystalYellow","path":"sprites/spr_crystalYellow/spr_crystalYellow.yy",},},
+    {"id":{"name":"obj_dungeon_exit","path":"objects/obj_dungeon_exit/obj_dungeon_exit.yy",},},
     {"id":{"name":"spr_portal","path":"sprites/spr_portal/spr_portal.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"obj_main_menu_button_help","path":"objects/obj_main_menu_button_help/obj_main_menu_button_help.yy",},},
@@ -159,6 +160,7 @@
     {"id":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_dungeon","path":"rooms/room_dungeon/room_dungeon.yy",},},
     {"roomId":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},},
     {"roomId":{"name":"room_YKbegin","path":"rooms/room_YKbegin/room_YKbegin.yy",},},
     {"roomId":{"name":"room_begin","path":"rooms/room_begin/room_begin.yy",},},
@@ -166,7 +168,6 @@
     {"roomId":{"name":"room_forest","path":"rooms/room_forest/room_forest.yy",},},
     {"roomId":{"name":"room_kingsroom","path":"rooms/room_kingsroom/room_kingsroom.yy",},},
     {"roomId":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
-    {"roomId":{"name":"room_dungeon","path":"rooms/room_dungeon/room_dungeon.yy",},},
     {"roomId":{"name":"room_dialogue","path":"rooms/room_dialogue/room_dialogue.yy",},},
     {"roomId":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},},
   ],

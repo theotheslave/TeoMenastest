@@ -64,6 +64,7 @@
     {"name":"spr_carpet","order":6,"path":"sprites/spr_carpet/spr_carpet.yy",},
     {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_crystalYellow","order":4,"path":"sprites/spr_crystalYellow/spr_crystalYellow.yy",},
+    {"name":"obj_dungeon_exit","order":7,"path":"objects/obj_dungeon_exit/obj_dungeon_exit.yy",},
     {"name":"spr_portal","order":1,"path":"sprites/spr_portal/spr_portal.yy",},
     {"name":"Flower_pot_bw","order":13,"path":"sprites/Flower_pot_bw/Flower_pot_bw.yy",},
     {"name":"obj_sign","order":2,"path":"objects/obj_sign/obj_sign.yy",},
