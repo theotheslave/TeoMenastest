@@ -1,19 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_main_menu_button_play",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-  ],
+  "name": "obj_main_menu_text_controls",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Buttons",
-    "path": "folders/Objects/main menu/Buttons.yy",
+    "name": "Text",
+    "path": "folders/Objects/main menu/Text.yy",
   },
   "parentObjectId": {
-    "name": "obj_main_menu_button_parent",
-    "path": "objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",
+    "name": "obj_main_menu_text_parent",
+    "path": "objects/obj_main_menu_text_parent/obj_main_menu_text_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
