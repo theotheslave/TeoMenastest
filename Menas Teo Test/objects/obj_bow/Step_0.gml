@@ -8,19 +8,26 @@ if(place_meeting(x,y,obj_player) && playerinrange && global.collectedbow == 0)
 {
 	if(keyboard_check_pressed(vk_space)){
 		global.collectedbow++
+		instance_destroy()
+		show_debug_message("picked up")
 	}
-	show_debug_message("picked up")
+	
+	
 }
-if(place_meeting(x,y,obj_player) && playerinrange && global.collectedbow > 0)
+//equipping
+if(global.collectedbow > 0 && keyboard_check_pressed(ord("E")) && !global.equippedbow)
 {
-	playerinrange = true
-	dialogueText = "Already picked up!"
-	draw_set_font(font)
+	global.equippedbow = true
 }
-if (!place_meeting(x, y, obj_player) && playerinrange) {
-    // Reset dialogue variables
-    dialogueText = "";
-    playerinrange = false;
+
+if(global.collectedbow > 0 && keyboard_check_pressed(ord("Q")) && global.equippedbow)
+{
+	global.equippedbow = false
+}
+// shooting
+if(global.collectedbow > 0 && mouse_check_button(mb_left)&& global.equippedbow)
+{
+	instance_create_layer(x,y, "Instances", obj_arrow)
 }
 
 
