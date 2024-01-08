@@ -41,15 +41,10 @@ if xspeed==0 && yspeed==0 {
 
 #endregion
 
-#region Collisions and Movement
+#region Collisions
 
-if (array_length (move_and_collide(xspeed, 0, obj_collision_parent)) > 0)
-{
+if place_meeting(x+xspeed, y+yspeed, obj_void) {
 	xspeed = 0;
-}
-
-if (array_length (move_and_collide (0, yspeed, obj_collision_parent)) > 0)
-{
 	yspeed = 0;
 }
 
@@ -136,6 +131,34 @@ if autoSpriteControl == true
 }
 
 
+//collisions
+	//diagonal ice collisions
+	#region
+	if xspeed != 0 && yspeed != 0
+	{
+		if place_meeting(x,y, obj_ice) {xspeed = 0;}
+		if place_meeting(x,y,obj_ice) {yspeed = 0;}
+		
+	}
+
+	if place_meeting(x + xspeed, y, obj_icewall)
+	{
+		var _pixelCheck = sign(xspeed); //sign gives a number based on our xspd, either a -1, 0 or 1
+		while !place_meeting(x + _pixelCheck, y, obj_icewall) { x += _pixelCheck;}
+		
+		xspeed = 0;
+	}
+	x = xspeed + x;
+	
+	if place_meeting(x, y +yspeed, obj_icewall)
+	{
+		var _pixelCheck = sign(yspeed);
+		while !place_meeting(x, y + _pixelCheck, obj_icewall) {	y += _pixelCheck;}
+		
+		yspeed = 0;
+	}
+	y = yspeed + y;
+#endregion
 
 //animate 
 if animate == true
