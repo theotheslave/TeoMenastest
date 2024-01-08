@@ -15,6 +15,19 @@ origspd = 3
 xspeed = 0
 yspeed = 0
 
+//player state control
+
+state = 0;
+	movementState = 0;
+	slidingState = 1;
+// data to do our player a certain things
+
+	//state information
+	movementControl = true; //how we get our xspd and yspd based on button inputs
+	autoSpriteControl = true; //control the sprite swapping
+	animate = true; //control the actual animation
+
+
 global.hp = 2
 global.cancontrol = true
 global.freeplayer = 0
