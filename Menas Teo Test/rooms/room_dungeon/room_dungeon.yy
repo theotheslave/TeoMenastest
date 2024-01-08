@@ -8,20 +8,17 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_3D6131F","path":"rooms/room_dungeon/room_dungeon.yy",},
-    {"name":"inst_408E3F7F","path":"rooms/room_dungeon/room_dungeon.yy",},
     {"name":"inst_5F30B4DF","path":"rooms/room_dungeon/room_dungeon.yy",},
     {"name":"inst_5DE7CBC0","path":"rooms/room_dungeon/room_dungeon.yy",},
     {"name":"inst_7A0971C","path":"rooms/room_dungeon/room_dungeon.yy",},
     {"name":"inst_59AC56D9","path":"rooms/room_dungeon/room_dungeon.yy",},
     {"name":"inst_4E78CD1E","path":"rooms/room_dungeon/room_dungeon.yy",},
-    {"name":"inst_495CB1A7","path":"rooms/room_dungeon/room_dungeon.yy",},
     {"name":"inst_1998ED67","path":"rooms/room_dungeon/room_dungeon.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D6131F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":384.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_408E3F7F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_void","path":"objects/obj_void/obj_void.yy",},"properties":[],"rotation":0.0,"scaleX":2.5,"scaleY":7.5,"x":1168.0,"y":368.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5F30B4DF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"buttonID","path":"objects/obj_button/obj_button.yy",},"value":"1",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":96.0,},
@@ -33,7 +30,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E78CD1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"buttonID","path":"objects/obj_button/obj_button.yy",},"value":"3",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":256.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_495CB1A7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1998ED67","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_dungeon_exit","path":"objects/obj_dungeon_exit/obj_dungeon_exit.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":224.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190131,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
