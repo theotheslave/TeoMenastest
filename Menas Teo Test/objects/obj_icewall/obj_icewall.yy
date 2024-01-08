@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wolfstop",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "obj_icewall",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "spr_wallwolf",
-    "path": "sprites/spr_wallwolf/spr_wallwolf.yy",
+    "name": "spr_ice_wall",
+    "path": "sprites/spr_ice_wall/spr_ice_wall.yy",
   },
   "spriteMaskId": null,
   "visible": true,
