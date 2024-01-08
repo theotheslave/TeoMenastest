@@ -102,7 +102,6 @@
     {"name":"obj_main_menu_button_play","order":3,"path":"objects/obj_main_menu_button_play/obj_main_menu_button_play.yy",},
     {"name":"room_controls","order":1,"path":"rooms/room_controls/room_controls.yy",},
     {"name":"spr_gameover","order":2,"path":"sprites/spr_gameover/spr_gameover.yy",},
-    {"name":"obj_wolfstop","order":7,"path":"objects/obj_wolfstop/obj_wolfstop.yy",},
     {"name":"obj_main_menu_text_move","order":3,"path":"objects/obj_main_menu_text_move/obj_main_menu_text_move.yy",},
     {"name":"spr_npc_maincode","order":5,"path":"sprites/spr_npc_maincode/spr_npc_maincode.yy",},
     {"name":"obj_checkpoint_manager","order":2,"path":"objects/obj_checkpoint_manager/obj_checkpoint_manager.yy",},
