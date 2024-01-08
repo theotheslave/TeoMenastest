@@ -67,8 +67,9 @@ if(trapcounter == 3)
 	trapped = false
 }
 
+#region Ice Colliding/states
 // get info for each state
-#region
+#region Different states
 	//movement state (full player control)
 	if state == movementState
 	{
@@ -130,10 +131,8 @@ if autoSpriteControl == true
 	sprite_index = sprite[face];
 }
 
-
-//collisions
-	//diagonal ice collisions
-	#region
+//diagonal ice collisions
+#region Diagonal ice collisions
 	if xspeed != 0 && yspeed != 0
 	{
 		if place_meeting(x,y, obj_ice) {xspeed = 0;}
@@ -174,4 +173,9 @@ if animate == true
 
 depth = -y
 
+#endregion
 
+if place_meeting(obj_player.x, obj_player.y, obj_iceportal)
+{
+	move_towards_point(obj_player.xstart, obj_player.ystart, 10);		// still have to figure out the x and y
+}

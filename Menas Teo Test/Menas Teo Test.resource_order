@@ -42,7 +42,6 @@
     {"name":"obj_checkpoint","order":3,"path":"objects/obj_checkpoint/obj_checkpoint.yy",},
     {"name":"obj_kingsroomdialogue","order":2,"path":"objects/obj_kingsroomdialogue/obj_kingsroomdialogue.yy",},
     {"name":"obj_mother","order":4,"path":"objects/obj_mother/obj_mother.yy",},
-    {"name":"Sprite48","order":6,"path":"sprites/Sprite48/Sprite48.yy",},
     {"name":"Ground_Forest","order":1,"path":"tilesets/Ground_Forest/Ground_Forest.yy",},
     {"name":"spr_bookcase_bw","order":9,"path":"sprites/spr_bookcase_bw/spr_bookcase_bw.yy",},
     {"name":"spr_test","order":9,"path":"sprites/spr_test/spr_test.yy",},
@@ -106,6 +105,7 @@
     {"name":"room_ice_dungeon","order":9,"path":"rooms/room_ice_dungeon/room_ice_dungeon.yy",},
     {"name":"spr_guards","order":6,"path":"sprites/spr_guards/spr_guards.yy",},
     {"name":"PauseFont","order":1,"path":"fonts/PauseFont/PauseFont.yy",},
+    {"name":"obj_iceportal","order":6,"path":"objects/obj_iceportal/obj_iceportal.yy",},
     {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
   ],
 }
