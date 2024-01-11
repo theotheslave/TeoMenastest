@@ -6,7 +6,7 @@ right_key = keyboard_check(ord("D"));
 left_key = keyboard_check(ord("A"));
 up_key = keyboard_check(ord("W"));
 down_key = keyboard_check(ord("S"));
-shift_sprint = keyboard_check(vk_shift)
+shift_sprint = keyboard_check(vk_lshift);
 
 #endregion
 
@@ -26,7 +26,7 @@ if xspeed == 0 {
 	if yspeed < 0 {face = UP};
 	if yspeed > 0{face = DOWN};
 	}
-	
+
 if yspeed > 0 && face == UP {face = DOWN};
 if yspeed < 0 && face == DOWN {face = UP};
 	
@@ -39,28 +39,22 @@ if xspeed==0 && yspeed==0 {
 	sprite_index = spr_player_standingstill;
 }
 
+//animate 
+if animate == true
+{
+	image_speed = 1;
+	if xspeed == 0 && yspeed == 0
+	{
+		image_index = 0;
+	}
+} else {
+	image_speed = 0;
+}
+
+depth = -y
+
 #endregion
 
-
-if(place_meeting(x,y,obj_trap))
-{
-	trapped = true
-	global.cancontrol = false
-}
-if (trapped && keyboard_check_pressed(ord("Q")))
-{
-	trapcounter++
-}
-if(trapcounter == 3)
-{
-	instance_destroy(Trap)
-	trapcounter = 0
-	global.cancontrol = true
-	trapped = false
-}
-
-#region Ice Colliding/states
-// get info for each state
 #region Different states
 	//movement state (full player control)
 	if state == movementState
@@ -128,51 +122,27 @@ else
 	movespd = origspd;
 }
 
-#endregion
-
-//set sprites
-mask_index = sprite[DOWN]
-if autoSpriteControl == true
+if(place_meeting(x,y,obj_trap))
 {
-	if yspeed == 0 
-	{
-		if xspeed > 0 {face=RIGHT};
-		if xspeed < 0 {face=LEFT};
-	}
-	if xspeed > 0 && face == LEFT {face = RIGHT};
-	if xspeed < 0 && face == RIGHT {face = LEFT};
-	if xspeed == 0
-	{
-		if yspeed > 0 {face = DOWN};
-		if yspeed < 0 {face = UP};
-	}
-	if yspeed > 0 && face == UP {face = DOWN};
-	if yspeed < 0 && face == DOWN {face = UP};
-	sprite_index = sprite[face];
+	trapped = true
+	global.cancontrol = false
 }
-
-
-
+if (trapped && keyboard_check_pressed(ord("Q")))
+{
+	trapcounter++
+}
+if(trapcounter == 3)
+{
+	instance_destroy(Trap)
+	trapcounter = 0
+	global.cancontrol = true
+	trapped = false
+}
 
 //transition
 if place_meeting(obj_player.x, obj_player.y, obj_icerestart)
 {
 	room_restart();		
 }
-
-
-//animate 
-if animate == true
-{
-	image_speed = 1;
-	if xspeed == 0 && yspeed == 0
-	{
-		image_index = 0;
-	}
-} else {
-	image_speed = 0;
-}
-
-depth = -y
 
 #endregion
