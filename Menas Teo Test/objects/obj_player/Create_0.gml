@@ -37,8 +37,6 @@ trapcounter = 0
 centerYOffset = -5
 centerY = y + centerYOffset
 
-aimdir = point_direction(x , centerY, mouse_x, mouse_y)
-shoot_key = mouse_check_button_pressed(mb_left) 
 
 global.equippedbow = false
 global.collectedbow = 0
