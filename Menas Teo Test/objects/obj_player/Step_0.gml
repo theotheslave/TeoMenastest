@@ -47,6 +47,10 @@ if place_meeting(x+xspeed, y+yspeed, obj_void) {
 	xspeed = 0;
 	yspeed = 0;
 }
+if place_meeting(x+xspeed, y+yspeed, obj_redwall) {
+	xspeed = 0;
+	yspeed = 0;
+}
 
 #endregion
 
@@ -104,7 +108,7 @@ if(trapcounter == 3)
 
 
 //get xspd and yspd based on buttons
-if movementControl == true{
+if movementControl == true && global.cancontrol == true{
 	xspeed = (right_key - left_key) * movespd;
 	yspeed = (down_key - up_key) * movespd;
 }
