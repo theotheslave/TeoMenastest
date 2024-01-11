@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "ice_rock",
-    "path": "sprites/ice_rock/ice_rock.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
