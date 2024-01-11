@@ -180,4 +180,6 @@ if place_meeting(obj_player.x, obj_player.y, obj_iceportal)
 {
 	move_towards_point(obj_player.xstart, obj_player.ystart, 10);		// still have to figure out the x and y
 }
-
+if place_meeting(x,y, obj_barrier)
+{}
+	
