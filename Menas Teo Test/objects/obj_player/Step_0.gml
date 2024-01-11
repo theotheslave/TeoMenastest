@@ -55,7 +55,7 @@ depth = -y
 
 #endregion
 
-#region Different states
+#region Different player states
 	//movement state (full player control)
 	if state == movementState
 	{
