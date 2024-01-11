@@ -1,17 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_icewall",
-  "eventList": [],
+  "name": "obj_main_menu_button_controls",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "walls",
-    "path": "folders/Objects/walls.yy",
+    "name": "Buttons",
+    "path": "folders/Objects/main menu/Buttons.yy",
   },
   "parentObjectId": {
-    "name": "obj_collision_parent",
-    "path": "objects/obj_collision_parent/obj_collision_parent.yy",
+    "name": "obj_main_menu_button_parent",
+    "path": "objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_ice_wall",
-    "path": "sprites/spr_ice_wall/spr_ice_wall.yy",
+    "name": "spr_main_menu_button",
+    "path": "sprites/spr_main_menu_button/spr_main_menu_button.yy",
   },
   "spriteMaskId": null,
   "visible": true,

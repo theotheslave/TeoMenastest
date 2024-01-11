@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_icewall",
+  "name": "obj_main_menu_text_move",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "walls",
-    "path": "folders/Objects/walls.yy",
+    "name": "Text",
+    "path": "folders/Objects/main menu/Text.yy",
   },
   "parentObjectId": {
-    "name": "obj_collision_parent",
-    "path": "objects/obj_collision_parent/obj_collision_parent.yy",
+    "name": "obj_main_menu_text_parent",
+    "path": "objects/obj_main_menu_text_parent/obj_main_menu_text_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_ice_wall",
-    "path": "sprites/spr_ice_wall/spr_ice_wall.yy",
+    "name": "spr_main_menu_controls",
+    "path": "sprites/spr_main_menu_controls/spr_main_menu_controls.yy",
   },
   "spriteMaskId": null,
   "visible": true,
