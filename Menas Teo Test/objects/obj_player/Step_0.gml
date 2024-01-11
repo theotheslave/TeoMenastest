@@ -119,7 +119,7 @@ if (array_length (move_and_collide(0, yspeed, obj_collision_parent, 4, 0, 0, mov
 	yspeed = 0;
 }
 
-if (keyboard_check (vk_lshift))
+if shift_sprint
 {
 	movespd = 5;
 }
