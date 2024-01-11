@@ -26,6 +26,10 @@
   "properties": [],
   "solid": false,
   "spriteId": null,
+  "spriteId": {
+    "name": "ice_rock",
+    "path": "sprites/ice_rock/ice_rock.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
