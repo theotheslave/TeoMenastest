@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "walls",
+    "path": "folders/Objects/walls.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "carpet",
-    "path": "sprites/carpet/carpet.yy",
+    "name": "spr_Yellowcarpet",
+    "path": "sprites/spr_Yellowcarpet/spr_Yellowcarpet.yy",
   },
   "spriteMaskId": null,
   "visible": true,

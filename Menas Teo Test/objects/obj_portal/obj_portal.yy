@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "transition",
+    "path": "folders/Objects/transition.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -23,9 +23,14 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"PortaltoYK","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":5,},
+  ],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_portal",
+    "path": "sprites/spr_portal/spr_portal.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
