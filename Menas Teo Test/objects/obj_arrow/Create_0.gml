@@ -1,9 +1,9 @@
-drc = point_direction(x,y,mouse_x,mouse_y)
-drc = drc + random_range(-4, 4)
-speed = 10
-img_angle = direction
-
-
+drc = random(360)
+speed1 =  3
+xspd = 0
+yspd = 0
+maxDist = 100
+global.destroyarrow = false
 
 
 

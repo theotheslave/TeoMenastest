@@ -25,10 +25,7 @@ if(global.collectedbow > 0 && keyboard_check_pressed(ord("Q")) && global.equippe
 	global.equippedbow = false
 }
 // shooting
-if(global.collectedbow > 0 && mouse_check_button(mb_left)&& global.equippedbow)
-{
-	instance_create_layer(x,y, "Instances", obj_arrow)
-}
+
 
 
 

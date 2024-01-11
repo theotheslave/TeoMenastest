@@ -105,7 +105,15 @@ if(!global.equippedbow && keyboard_check_pressed(ord("E")) && global.collectedbo
 	show_debug_message("equipped")
 }
 
-
+//shooting
+if(mouse_check_button(mb_left) && global.equippedbow)
+{
+	var _arrowinst = instance_create_depth( x, centerY, depth-100, obj_arrow)
+	with(_arrowinst)
+	{
+		drc = other.aimdir
+	}
+}
 
 
 
