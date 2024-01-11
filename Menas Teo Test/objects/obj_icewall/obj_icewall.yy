@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_ice_wall",
-    "path": "sprites/spr_ice_wall/spr_ice_wall.yy",
+    "name": "ice_rock",
+    "path": "sprites/ice_rock/ice_rock.yy",
   },
   "spriteMaskId": null,
   "visible": true,
