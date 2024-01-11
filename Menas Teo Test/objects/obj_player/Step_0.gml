@@ -164,6 +164,14 @@ if autoSpriteControl == true
 	y = yspeed + y;
 #endregion
 
+
+//transition
+if place_meeting(obj_player.x, obj_player.y, obj_icerestart)
+{
+	room_restart();		
+}
+
+
 //animate 
 if animate == true
 {
@@ -187,3 +195,27 @@ if place_meeting(obj_player.x, obj_player.y, obj_iceportal)
 if place_meeting(x,y, obj_barrier)
 {}
 	
+
+// player equip bow
+if(global.equippedbow && keyboard_check_pressed(ord("Q")) && global.collectedbow > 0)
+{
+	global.equippedbow = false
+	global.abilitytoshoot = false
+	show_debug_message("unequipped")
+}
+if(!global.equippedbow && keyboard_check_pressed(ord("E")) && global.collectedbow > 0)
+{
+	global.equippedbow = true
+	global.abilitytoshoot = true
+	show_debug_message("equipped")
+}
+
+//shooting
+if(mouse_check_button(mb_left) && global.equippedbow)
+{
+	var _arrowinst = instance_create_depth( x, centerY, depth-100, obj_arrow)
+	with(_arrowinst)
+	{
+		drc = other.aimdir
+	}
+}
