@@ -103,6 +103,12 @@ if movementControl == true && global.cancontrol == true{
 	
 }
 
+if !global.cancontrol
+{
+	movespd = 0;
+}
+
+
 if (array_length (move_and_collide(xspeed, 0, obj_collision_parent, 4, 0, 0, movespd, movespd)) > 0)
 {
 	xspeed = 0;
