@@ -164,14 +164,6 @@ if autoSpriteControl == true
 	y = yspeed + y;
 #endregion
 
-
-//transition
-if place_meeting(obj_player.x, obj_player.y, obj_icerestart)
-{
-	room_restart();		
-}
-
-
 //animate 
 if animate == true
 {
