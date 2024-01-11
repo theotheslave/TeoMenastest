@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "portal",
-    "path": "sprites/portal/portal.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
