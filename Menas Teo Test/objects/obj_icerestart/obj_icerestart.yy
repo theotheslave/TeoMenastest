@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_iceportal",
+  "name": "obj_icerestart",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
