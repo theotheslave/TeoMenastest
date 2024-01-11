@@ -110,6 +110,7 @@ if movementControl == true{
 }
 
 
+
 //set sprites
 mask_index = sprite[DOWN]
 if autoSpriteControl == true
@@ -178,4 +179,28 @@ depth = -y
 if place_meeting(obj_player.x, obj_player.y, obj_iceportal)
 {
 	move_towards_point(obj_player.xstart, obj_player.ystart, 10);		// still have to figure out the x and y
+}
+
+// player equip bow
+if(global.equippedbow && keyboard_check_pressed(ord("Q")) && global.collectedbow > 0)
+{
+	global.equippedbow = false
+	global.abilitytoshoot = false
+	show_debug_message("unequipped")
+}
+if(!global.equippedbow && keyboard_check_pressed(ord("E")) && global.collectedbow > 0)
+{
+	global.equippedbow = true
+	global.abilitytoshoot = true
+	show_debug_message("equipped")
+}
+
+//shooting
+if(mouse_check_button(mb_left) && global.equippedbow)
+{
+	var _arrowinst = instance_create_depth( x, centerY, depth-100, obj_arrow)
+	with(_arrowinst)
+	{
+		drc = other.aimdir
+	}
 }
