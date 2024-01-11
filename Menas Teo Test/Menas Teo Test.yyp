@@ -47,6 +47,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"obj_collision_parent","path":"objects/obj_collision_parent/obj_collision_parent.yy",},},
     {"id":{"name":"spr_transition","path":"sprites/spr_transition/spr_transition.yy",},},
     {"id":{"name":"spr_redmazeitem01","path":"sprites/spr_redmazeitem01/spr_redmazeitem01.yy",},},
     {"id":{"name":"Trap2","path":"sprites/Trap2/Trap2.yy",},},

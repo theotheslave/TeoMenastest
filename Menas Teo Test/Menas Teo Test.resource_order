@@ -24,6 +24,7 @@
     {"name":"TileSet","order":17,"path":"folders/TileSet.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_collision_parent","order":2,"path":"objects/obj_collision_parent/obj_collision_parent.yy",},
     {"name":"spr_transition","order":2,"path":"sprites/spr_transition/spr_transition.yy",},
     {"name":"spr_redmazeitem01","order":11,"path":"sprites/spr_redmazeitem01/spr_redmazeitem01.yy",},
     {"name":"Trap2","order":2,"path":"sprites/Trap2/Trap2.yy",},
