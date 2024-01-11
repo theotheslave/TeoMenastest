@@ -43,14 +43,23 @@ if xspeed==0 && yspeed==0 {
 
 #region Collisions and Movement
 
-if (array_length (move_and_collide(xspeed, 0, obj_collision_parent)) > 0)
+if (array_length (move_and_collide(xspeed, 0, obj_collision_parent, 4, 0, 0, movespd, movespd)) > 0)
 {
 	xspeed = 0;
 }
 
-if (array_length (move_and_collide(0, yspeed, obj_collision_parent)) > 0)
+if (array_length (move_and_collide(0, yspeed, obj_collision_parent, 4, 0, 0, movespd, movespd)) > 0)
 {
 	yspeed = 0;
+}
+
+if (keyboard_check(vk_lshift)) 
+{
+	movespd = 5;
+}
+else
+{
+	movespd = origspd
 }
 
 #endregion
