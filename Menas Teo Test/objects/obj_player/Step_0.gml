@@ -41,18 +41,6 @@ if xspeed==0 && yspeed==0 {
 
 #endregion
 
-#region Collisions
-
-if place_meeting(x+xspeed, y+yspeed, obj_void) {
-	xspeed = 0;
-	yspeed = 0;
-}
-if place_meeting(x+xspeed, y+yspeed, obj_redwall) {
-	xspeed = 0;
-	yspeed = 0;
-}
-
-#endregion
 
 if(place_meeting(x,y,obj_trap))
 {
@@ -106,14 +94,35 @@ if(trapcounter == 3)
 
 #endregion
 
+#region Movement and Collisions
 
 //get xspd and yspd based on buttons
 if movementControl == true && global.cancontrol == true{
 	xspeed = (right_key - left_key) * movespd;
 	yspeed = (down_key - up_key) * movespd;
+	
 }
 
+if (array_length (move_and_collide(xspeed, 0, obj_collision_parent, 4, 0, 0, movespd, movespd)) > 0)
+{
+	xspeed = 0;
+}
 
+if (array_length (move_and_collide(0, yspeed, obj_collision_parent, 4, 0, 0, movespd, movespd)) > 0)
+{
+	yspeed = 0;
+}
+
+if (keyboard_check (vk_lshift))
+{
+	movespd = 5;
+}
+else
+{
+	movespd = origspd;
+}
+
+#endregion
 
 //set sprites
 mask_index = sprite[DOWN]
@@ -136,33 +145,7 @@ if autoSpriteControl == true
 	sprite_index = sprite[face];
 }
 
-//diagonal ice collisions
-#region Diagonal ice collisions
-	if xspeed != 0 && yspeed != 0
-	{
-		if place_meeting(x,y, obj_ice) {xspeed = 0;}
-		if place_meeting(x,y,obj_ice) {yspeed = 0;}
-		
-	}
 
-	if place_meeting(x + xspeed, y, obj_icewall)
-	{
-		var _pixelCheck = sign(xspeed); //sign gives a number based on our xspd, either a -1, 0 or 1
-		while !place_meeting(x + _pixelCheck, y, obj_icewall) { x += _pixelCheck;}
-		
-		xspeed = 0;
-	}
-	x = xspeed + x;
-	
-	if place_meeting(x, y +yspeed, obj_icewall)
-	{
-		var _pixelCheck = sign(yspeed);
-		while !place_meeting(x, y + _pixelCheck, obj_icewall) {	y += _pixelCheck;}
-		
-		yspeed = 0;
-	}
-	y = yspeed + y;
-#endregion
 
 
 //transition
@@ -187,11 +170,3 @@ if animate == true
 depth = -y
 
 #endregion
-
-if place_meeting(obj_player.x, obj_player.y, obj_iceportal)
-{
-	move_towards_point(obj_player.xstart, obj_player.ystart, 10);		// still have to figure out the x and y
-}
-if place_meeting(x,y, obj_barrier)
-{}
-	
