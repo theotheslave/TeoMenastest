@@ -160,6 +160,14 @@ if autoSpriteControl == true
 	y = yspeed + y;
 #endregion
 
+
+//transition
+if place_meeting(obj_player.x, obj_player.y, obj_icerestart)
+{
+	room_restart();		
+}
+
+
 //animate 
 if animate == true
 {
@@ -176,10 +184,6 @@ depth = -y
 
 #endregion
 
-if place_meeting(obj_player.x, obj_player.y, obj_iceportal)
-{
-	move_towards_point(obj_player.xstart, obj_player.ystart, 10);		// still have to figure out the x and y
-}
 
 // player equip bow
 if(global.equippedbow && keyboard_check_pressed(ord("Q")) && global.collectedbow > 0)
