@@ -179,6 +179,7 @@
     {"id":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_ice_dungeon_hard","path":"rooms/room_ice_dungeon_hard/room_ice_dungeon_hard.yy",},},
     {"roomId":{"name":"room_ice_dungeon_easy","path":"rooms/room_ice_dungeon_easy/room_ice_dungeon_easy.yy",},},
     {"roomId":{"name":"room_begin","path":"rooms/room_begin/room_begin.yy",},},
     {"roomId":{"name":"room_redpuzzle1","path":"rooms/room_redpuzzle1/room_redpuzzle1.yy",},},
@@ -191,7 +192,6 @@
     {"roomId":{"name":"room_dungeon","path":"rooms/room_dungeon/room_dungeon.yy",},},
     {"roomId":{"name":"room_dialogue","path":"rooms/room_dialogue/room_dialogue.yy",},},
     {"roomId":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},},
-    {"roomId":{"name":"room_ice_dungeon_hard","path":"rooms/room_ice_dungeon_hard/room_ice_dungeon_hard.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
