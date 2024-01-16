@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_main_menu_button_help",
-  "eventList": [],
+  "name": "obj_main_menu_button_back",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "main menu",
-    "path": "folders/Objects/main menu.yy",
+    "name": "Buttons",
+    "path": "folders/Objects/main menu/Buttons.yy",
   },
   "parentObjectId": {
     "name": "obj_main_menu_button_parent",
@@ -29,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_main_menu_button",
-    "path": "sprites/spr_main_menu_button/spr_main_menu_button.yy",
+    "name": "spr_main_menu",
+    "path": "sprites/spr_main_menu/spr_main_menu.yy",
   },
   "spriteMaskId": null,
   "visible": true,
