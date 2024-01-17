@@ -12,6 +12,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_kingroom","path":"objects/obj_kingroom/obj_kingroom.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_yellow_dungeon_easy_exit","path":"objects/obj_yellow_dungeon_easy_exit/obj_yellow_dungeon_easy_exit.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -41,8 +42,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_up",
-    "path": "sprites/spr_player_up/spr_player_up.yy",
+    "name": "spr_player_standingstill",
+    "path": "sprites/spr_player_standingstill/spr_player_standingstill.yy",
   },
   "spriteMaskId": {
     "name": "spr_player_down",

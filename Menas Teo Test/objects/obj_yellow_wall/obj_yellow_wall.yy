@@ -1,19 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_main_menu_button_quit",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-  ],
+  "name": "obj_yellow_wall",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Buttons",
-    "path": "folders/Objects/main menu/Buttons.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_main_menu_button_parent",
-    "path": "objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",
+    "name": "obj_collision_parent",
+    "path": "objects/obj_collision_parent/obj_collision_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_main_menu",
-    "path": "sprites/spr_main_menu/spr_main_menu.yy",
+    "name": "spr_yellow_wall",
+    "path": "sprites/spr_yellow_wall/spr_yellow_wall.yy",
   },
   "spriteMaskId": null,
   "visible": true,
