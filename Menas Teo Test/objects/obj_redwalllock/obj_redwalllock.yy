@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bookshelf",
+  "name": "obj_redwalllock",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -28,10 +28,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "spr_bookshelf",
-    "path": "sprites/spr_bookshelf/spr_bookshelf.yy",
+    "name": "spr_redwalllock",
+    "path": "sprites/spr_redwalllock/spr_redwalllock.yy",
   },
   "spriteMaskId": null,
   "visible": true,

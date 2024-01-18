@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "redpuzzle objects",
+    "path": "folders/Objects/redpuzzle objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -52,6 +52,10 @@ if animate == true
 }
 
 depth = -y
+if place_meeting(x+xspeed, y+yspeed, obj_redwalllock) {
+	xspeed = 0;
+	yspeed = 0;
+}
 
 #endregion
 

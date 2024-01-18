@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Menas Teo Test",
-    "path": "Menas Teo Test.yyp",
+    "name": "redpuzzle objects",
+    "path": "folders/Objects/redpuzzle objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,14 +25,19 @@
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsShapePoints": [],
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":64.0,"y":0.0,},
+    {"x":64.0,"y":64.0,},
+    {"x":0.0,"y":64.0,},
+  ],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "Trap1",
     "path": "sprites/Trap1/Trap1.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
