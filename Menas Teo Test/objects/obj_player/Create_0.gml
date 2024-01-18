@@ -38,7 +38,3 @@ centerYOffset = -5
 centerY = y + centerYOffset
 
 
-global.equippedbow = false
-global.collectedbow = 0
-global.collectedletter = false
-global.collectedbook = false
