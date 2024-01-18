@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_redmazeobject01",
+  "name": "obj_cobweb1",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "red puzzle objects",
+    "path": "folders/Objects/red puzzle objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_redmazeitem01",
-    "path": "sprites/spr_redmazeitem01/spr_redmazeitem01.yy",
+    "name": "spr_cobweb1",
+    "path": "sprites/spr_cobweb1/spr_cobweb1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
