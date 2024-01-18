@@ -6,13 +6,10 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Inside assets",
-    "path": "folders/Objects/walls/Inside assets.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
-  "parentObjectId": {
-    "name": "obj_collision_parent",
-    "path": "objects/obj_collision_parent/obj_collision_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_lamp_bw",
-    "path": "sprites/spr_lamp_bw/spr_lamp_bw.yy",
+    "name": "lamp",
+    "path": "sprites/lamp/lamp.yy",
   },
   "spriteMaskId": null,
   "visible": true,

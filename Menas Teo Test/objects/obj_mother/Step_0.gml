@@ -42,6 +42,14 @@ if (!place_meeting(x, y, obj_player) && playerInRange) {
     dialogueText = "";
     playerInRange = false;
 }
+//dying
+if(place_meeting(x,y,obj_arrow)){
+	hp--
+}
+if(hp <= 0)
+{
+	instance_destroy()
+}
 
 
 
