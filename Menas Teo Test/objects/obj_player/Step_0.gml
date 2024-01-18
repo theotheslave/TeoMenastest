@@ -102,6 +102,9 @@ if movementControl == true && global.cancontrol == true{
 		if place_meeting(x,y,obj_ice) {yspd = 0;}
 		
 	}
+	y = yspeed + y;
+	
+#endregion
 
 }
 
