@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lamp",
+  "name": "obj_table",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_lamp_bw",
-    "path": "sprites/spr_lamp_bw/spr_lamp_bw.yy",
+    "name": "Kitchen_table_bw",
+    "path": "sprites/Kitchen_table_bw/Kitchen_table_bw.yy",
   },
   "spriteMaskId": null,
   "visible": true,

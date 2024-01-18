@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lamp",
+  "name": "obj_bookshelf",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_lamp_bw",
-    "path": "sprites/spr_lamp_bw/spr_lamp_bw.yy",
+    "name": "spr_bookcase_bw",
+    "path": "sprites/spr_bookcase_bw/spr_bookcase_bw.yy",
   },
   "spriteMaskId": null,
   "visible": true,

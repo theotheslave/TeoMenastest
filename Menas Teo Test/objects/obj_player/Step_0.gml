@@ -95,7 +95,17 @@ if movementControl == true && global.cancontrol == true{
 	xspeed = (right_key - left_key) * movespd;
 	yspeed = (down_key - up_key) * movespd;
 	
+			//diagonal ice collisions
+		if xspeed != 0 && yspeed != 0
+	{
+		if place_meeting(x,y, obj_ice) {xspd = 0;}
+		if place_meeting(x,y,obj_ice) {yspd = 0;}
+		
+	}
+
 }
+
+
 
 if !global.cancontrol
 {

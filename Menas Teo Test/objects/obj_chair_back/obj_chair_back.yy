@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lamp",
+  "name": "obj_chair_back",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_lamp_bw",
-    "path": "sprites/spr_lamp_bw/spr_lamp_bw.yy",
+    "name": "Kitchen_chair_front_bw",
+    "path": "sprites/Kitchen_chair_front_bw/Kitchen_chair_front_bw.yy",
   },
   "spriteMaskId": null,
   "visible": true,

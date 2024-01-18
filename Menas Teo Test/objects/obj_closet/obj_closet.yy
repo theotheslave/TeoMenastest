@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "walls",
-    "path": "folders/Objects/walls.yy",
+    "name": "Inside assets",
+    "path": "folders/Objects/walls/Inside assets.yy",
   },
   "parentObjectId": {
     "name": "obj_collision_parent",
