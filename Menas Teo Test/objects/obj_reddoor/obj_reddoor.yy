@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_redwall",
+  "name": "obj_reddoor",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "walls",
-    "path": "folders/Objects/walls.yy",
+    "name": "redpuzzle objects",
+    "path": "folders/Objects/redpuzzle objects.yy",
   },
-  "parentObjectId": {
-    "name": "obj_void",
-    "path": "objects/obj_void/obj_void.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_redwall",
-    "path": "sprites/spr_redwall/spr_redwall.yy",
+    "name": "spr_reddoor",
+    "path": "sprites/spr_reddoor/spr_reddoor.yy",
   },
   "spriteMaskId": null,
   "visible": true,
