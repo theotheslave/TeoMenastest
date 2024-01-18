@@ -149,6 +149,7 @@
     {"name":"PauseFont","order":1,"path":"fonts/PauseFont/PauseFont.yy",},
     {"name":"obj_table","order":5,"path":"objects/obj_table/obj_table.yy",},
     {"name":"obj_chair_back","order":4,"path":"objects/obj_chair_back/obj_chair_back.yy",},
+    {"name":"obj_corner_kitchen","order":12,"path":"objects/obj_corner_kitchen/obj_corner_kitchen.yy",},
     {"name":"obj_icerestart","order":6,"path":"objects/obj_icerestart/obj_icerestart.yy",},
     {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
   ],

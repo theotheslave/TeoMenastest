@@ -27,6 +27,7 @@
     {"name":"inst_1B9A46","path":"rooms/room_inside/room_inside.yy",},
     {"name":"inst_4567980D","path":"rooms/room_inside/room_inside.yy",},
     {"name":"inst_5D58F9F1","path":"rooms/room_inside/room_inside.yy",},
+    {"name":"inst_60560E56","path":"rooms/room_inside/room_inside.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -55,6 +56,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5205F577","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_plant","path":"objects/obj_plant/obj_plant.yy",},"properties":[],"rotation":0.0,"scaleX":0.55555606,"scaleY":0.64,"x":698.0,"y":144.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5E86152","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_bookshelf","path":"objects/obj_bookshelf/obj_bookshelf.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":125.0,"y":-20.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_623E4670","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lamp","path":"objects/obj_lamp/obj_lamp.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":109.0,"y":60.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60560E56","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_corner_kitchen","path":"objects/obj_corner_kitchen/obj_corner_kitchen.yy",},"properties":[],"rotation":-90.22525,"scaleX":1.0,"scaleY":1.0,"x":984.0,"y":76.035095,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4286545791,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
