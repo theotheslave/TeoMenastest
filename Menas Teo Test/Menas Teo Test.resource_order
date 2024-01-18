@@ -2,6 +2,7 @@
   "FolderOrderSettings": [
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"buttons","order":32,"path":"folders/Objects/buttons.yy",},
     {"name":"dialogue system","order":22,"path":"folders/Objects/dialogue system.yy",},
     {"name":"Buttons","order":1,"path":"folders/Objects/main menu/Buttons.yy",},
     {"name":"Text","order":2,"path":"folders/Objects/main menu/Text.yy",},
@@ -25,7 +26,6 @@
     {"name":"Rooms","order":7,"path":"folders/Sprites/Rooms.yy",},
     {"name":"transition","order":1,"path":"folders/Sprites/transition.yy",},
     {"name":"TileSet","order":17,"path":"folders/TileSet.yy",},
-    {"name":"buttons","order":32,"path":"folders/Objects/buttons.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_collision_parent","order":2,"path":"objects/obj_collision_parent/obj_collision_parent.yy",},

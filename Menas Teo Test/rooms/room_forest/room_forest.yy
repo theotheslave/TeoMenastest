@@ -13,7 +13,6 @@
     {"name":"inst_74CB74E","path":"rooms/room_forest/room_forest.yy",},
     {"name":"inst_5E559F2B","path":"rooms/room_forest/room_forest.yy",},
     {"name":"inst_5A684A3A","path":"rooms/room_forest/room_forest.yy",},
-    {"name":"inst_59A43468","path":"rooms/room_forest/room_forest.yy",},
     {"name":"inst_1D52BB70","path":"rooms/room_forest/room_forest.yy",},
     {"name":"inst_25C850FB","path":"rooms/room_forest/room_forest.yy",},
     {"name":"inst_35ABE467","path":"rooms/room_forest/room_forest.yy",},
@@ -104,6 +103,7 @@
     {"name":"inst_506A9F","path":"rooms/room_forest/room_forest.yy",},
     {"name":"inst_2B8A279D","path":"rooms/room_forest/room_forest.yy",},
     {"name":"inst_4DC15D92","path":"rooms/room_forest/room_forest.yy",},
+    {"name":"inst_5B18CFB6","path":"rooms/room_forest/room_forest.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -115,10 +115,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5E559F2B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2528.0,"y":3808.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5A684A3A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"propertyId":{"name":"Enemy","path":"objects/obj_wolf/obj_wolf.yy",},"value":"room_gameover",},
-          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3376.8704,"y":3101.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_59A43468","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"properties":[
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"propertyId":{"name":"Enemy","path":"objects/obj_wolf/obj_wolf.yy",},"value":"room_gameover",},
-          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1611.0,"y":3144.0,},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2208.0002,"y":3392.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1D52BB70","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},"propertyId":{"name":"PortaltoYK","path":"objects/obj_portal/obj_portal.yy",},"value":"room_YKbegin",},
           ],"rotation":0.0,"scaleX":4.03125,"scaleY":3.75,"x":2208.0,"y":0.0,},
@@ -137,6 +134,9 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_506A9F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2368.0,"y":768.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B8A279D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2720.0,"y":640.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4DC15D92","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2304.0,"y":480.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5B18CFB6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"propertyId":{"name":"Enemy","path":"objects/obj_wolf/obj_wolf.yy",},"value":"room_gameover",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2656.0,"y":3392.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Trees","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":250,"SerialiseWidth":304,"TileCompressedData":[
 -198,-2147483648,1,82,-5,-2147483648,11,301,302,303,304,-2147483648,80,81,82,83,84,85,-213,-2147483648,1,82,-4,-2147483648,1,82,-4,-2147483648,1,82,-4,-2147483648,1,82,-57,-2147483648,4,136,137,138,139,-3,-2147483648,11,356,357,358,-2147483648,-2147483648,135,136,137,138,139,140,-182,-2147483648,7,60,61,62,63,64,65,66,-13,-2147483648,29,80,81,82,83,84,80,81,82,83,84,136,137,138,139,-2147483648,136,137,138,139,-2147483648,136,137,138,139,-2147483648,136,137,138,139,-31,-2147483648,28,80,81,82,83,84,85,80,81,82,83,84,85,80,81,82,83,84,85,80,81,82,83,84,190,191,192,193,194,-8,-2147483648,9,190,191,192,193,194,195,-2147483648,-2147483648,82,-179,-2147483648,49,115,116,117,118,119,120,121,60,61,62,63,64,65,66,-2147483648,80,81,82,83,84,135,136,137,138,139,135,136,137,138,190,191,192,193,194,190,191,192,193,194,190,191,192,193,194,190,191,192,193,194,-31,-2147483648,28,135,136,137,138,139,140,135,136,137,138,139,140,135,136,137,138,139,140,135,136,137,138,139,245,246,247,248,249,-8,-2147483648,11,245,246,247,248,249,250,-2147483648,136,137,138,139,-177,-2147483648,49,170,171,172,173,174,175,176,115,116,117,118,119,120,121,-2147483648,135,136,137,138,139,190,191,192,193,194,190,191,192,193,245,246,247,248,249,245,246,247,248,249,245,246,247,248,249,245,246,247,248,249,-31,-2147483648,47,190,191,192,193,194,195,190,191,192,193,194,195,
