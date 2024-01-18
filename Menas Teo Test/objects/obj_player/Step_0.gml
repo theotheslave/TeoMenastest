@@ -48,6 +48,7 @@ if place_meeting(x+xspeed, y+yspeed, obj_void) {
 	yspeed = 0;
 }
 
+
 #endregion
 
 if(place_meeting(x,y,obj_trap))
@@ -158,6 +159,7 @@ if autoSpriteControl == true
 		yspeed = 0;
 	}
 	y = yspeed + y;
+	
 #endregion
 
 
