@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bed",
+  "name": "obj_main_menu_button_help",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "walls",
-    "path": "folders/Objects/walls.yy",
+    "name": "main menu",
+    "path": "folders/Objects/main menu.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_main_menu_button_parent",
+    "path": "objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bed",
-    "path": "sprites/spr_bed/spr_bed.yy",
+    "name": "spr_main_menu_button",
+    "path": "sprites/spr_main_menu_button/spr_main_menu_button.yy",
   },
   "spriteMaskId": null,
   "visible": true,

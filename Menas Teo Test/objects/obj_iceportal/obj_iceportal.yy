@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bed",
+  "name": "obj_iceportal",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "walls",
-    "path": "folders/Objects/walls.yy",
+    "name": "transition",
+    "path": "folders/Objects/transition.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bed",
-    "path": "sprites/spr_bed/spr_bed.yy",
+    "name": "spr_door",
+    "path": "sprites/spr_door/spr_door.yy",
   },
   "spriteMaskId": null,
   "visible": true,

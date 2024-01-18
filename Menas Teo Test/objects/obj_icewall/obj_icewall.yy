@@ -9,10 +9,7 @@
     "name": "walls",
     "path": "folders/Objects/walls.yy",
   },
-  "parentObjectId": {
-    "name": "obj_collision_parent",
-    "path": "objects/obj_collision_parent/obj_collision_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "ice_rock",
-    "path": "sprites/ice_rock/ice_rock.yy",
+    "name": "spr_ice_wall",
+    "path": "sprites/spr_ice_wall/spr_ice_wall.yy",
   },
   "spriteMaskId": null,
   "visible": true,
