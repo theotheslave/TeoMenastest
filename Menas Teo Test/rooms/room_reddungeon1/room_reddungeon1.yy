@@ -333,8 +333,8 @@
     {"name":"inst_4E98EE35","path":"rooms/room_reddungeon1/room_reddungeon1.yy",},
     {"name":"inst_1F9E5AB1","path":"rooms/room_reddungeon1/room_reddungeon1.yy",},
     {"name":"inst_50423639","path":"rooms/room_reddungeon1/room_reddungeon1.yy",},
-    {"name":"inst_3B21FB02","path":"rooms/room_reddungeon1/room_reddungeon1.yy",},
     {"name":"inst_1726FFF0","path":"rooms/room_reddungeon1/room_reddungeon1.yy",},
+    {"name":"inst_3A14A970","path":"rooms/room_reddungeon1/room_reddungeon1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -661,7 +661,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E98EE35","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_cobweb2","path":"objects/obj_cobweb2/obj_cobweb2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1312.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1F9E5AB1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_cobweb1","path":"objects/obj_cobweb1/obj_cobweb1.yy",},"properties":[],"rotation":-91.30736,"scaleX":1.0,"scaleY":1.0,"x":1056.0,"y":128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_50423639","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_reddoor","path":"objects/obj_reddoor/obj_reddoor.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.2421875,"x":671.0,"y":-11.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3B21FB02","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_redwalllock","path":"objects/obj_redwalllock/obj_redwalllock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":992.0,"y":640.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3A14A970","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_redwalllock","path":"objects/obj_redwalllock/obj_redwalllock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":992.0,"y":640.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_352F5557","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_void","path":"objects/obj_void/obj_void.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":448.0,},
