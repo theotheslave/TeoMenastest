@@ -127,7 +127,7 @@ if(place_meeting(x,y,obj_trap))
 	trapped = true
 	global.cancontrol = false
 }
-if (trapped && keyboard_check_pressed(ord("Q")))
+if (trapped && keyboard_check_pressed(vk_space))
 {
 	trapcounter++
 }
