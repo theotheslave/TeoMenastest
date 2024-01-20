@@ -39,5 +39,5 @@
     "path": "sprites/Trap1/Trap1.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

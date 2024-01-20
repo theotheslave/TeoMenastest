@@ -29,6 +29,7 @@ if xspeed == 0 {
 
 if yspeed > 0 && face == UP {face = DOWN};
 if yspeed < 0 && face == DOWN {face = UP};
+
 	
 
 sprite_index = sprite[face];
@@ -38,7 +39,10 @@ if xspeed==0 && yspeed==0 {
 	
 	sprite_index = spr_player_standingstill;
 }
-
+if !global.cancontrol
+{
+	sprite_index = spr_player_standingstill;
+}
 //animate 
 if animate == true
 {
@@ -113,12 +117,12 @@ if !global.cancontrol
 }
 
 
-if (array_length (move_and_collide(xspeed, 0, obj_collision_parent, 4, 0, 0, movespd, movespd)) > 0)
+if (array_length (move_and_collide(xspeed, 0, obj_void, 4, 0, 0, movespd, movespd)) > 0)
 {
 	xspeed = 0;
 }
 
-if (array_length (move_and_collide(0, yspeed, obj_collision_parent, 4, 0, 0, movespd, movespd)) > 0)
+if (array_length (move_and_collide(0, yspeed, obj_void, 4, 0, 0, movespd, movespd)) > 0)
 {
 	yspeed = 0;
 }

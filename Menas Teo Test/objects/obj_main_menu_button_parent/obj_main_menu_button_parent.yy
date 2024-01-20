@@ -13,8 +13,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Buttons",
-    "path": "folders/Objects/main menu/Buttons.yy",
+    "name": "Menas Teo Test",
+    "path": "Menas Teo Test.yyp",
   },
   "parentObjectId": null,
   "persistent": false,
