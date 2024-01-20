@@ -6,13 +6,12 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "red puzzle objects",
-    "path": "folders/Objects/red puzzle objects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+    "name": "walls",
+    "path": "folders/Objects/walls.yy",
   },
-  "parentObjectId": {
-    "name": "obj_void",
-    "path": "objects/obj_void/obj_void.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

@@ -38,5 +38,3 @@ centerYOffset = -5
 centerY = y + centerYOffset
 
 
-global.collectedletter = false
-global.collectedbook = false

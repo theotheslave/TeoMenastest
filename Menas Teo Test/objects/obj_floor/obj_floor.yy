@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_cobweb2",
+  "name": "obj_floor",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "red puzzle objects",
-    "path": "folders/Objects/red puzzle objects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_cobweb2",
-    "path": "sprites/spr_cobweb2/spr_cobweb2.yy",
+    "name": "Sprite52",
+    "path": "sprites/Sprite52/Sprite52.yy",
   },
   "spriteMaskId": null,
   "visible": true,

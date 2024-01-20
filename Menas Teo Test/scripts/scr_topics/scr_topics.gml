@@ -62,11 +62,6 @@ global.topics[$ "YKBegin"] = [
 	
 	];
 
-global.topics[$ "redpuzzleletter"] = [
-    TEXT("There's a narrow hole in that wall..."),
-	TEXT("Hmmm i need to find some kind of letter, i suppose"),
-	
-	];
 
 
 
