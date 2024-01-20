@@ -2,8 +2,9 @@
 //Creates a textbox and start a conversation.
 // What topic the dialogue box should be
 function startDialogue(topic) {
-	if (instance_exists(obj_textbox))
-	return;
+	global.cancontrol = false
+	if (instance_exists(obj_textbox)){
+	return; }
 	
 	var inst = instance_create_depth(x, y, -999, obj_textbox);
 	inst.setTopic(topic);

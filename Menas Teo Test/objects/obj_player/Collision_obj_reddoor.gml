@@ -1,4 +1,4 @@
-room_restart()
+room_goto(room_reddungeon2);
 
 
 

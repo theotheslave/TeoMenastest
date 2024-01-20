@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_reddoor",
-    "path": "sprites/spr_reddoor/spr_reddoor.yy",
+    "name": "spr_reddoorwithoutlock",
+    "path": "sprites/spr_reddoorwithoutlock/spr_reddoorwithoutlock.yy",
   },
   "spriteMaskId": null,
   "visible": true,

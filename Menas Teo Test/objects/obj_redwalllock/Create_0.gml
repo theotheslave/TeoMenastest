@@ -1,4 +1,4 @@
-dialogueText = "Seems like there's a narrow hole in the wall"; 
+dialogueText = ""
 playerInRange = false; 
 font = fnt_npc 
 

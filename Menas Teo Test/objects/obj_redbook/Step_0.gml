@@ -1,14 +1,13 @@
-if (place_meeting(x, y, obj_player) && !playerInRange) { 
-    playerInRange = true; 
-	draw_set_font(font); 
+if (place_meeting(x, y, obj_player)) { 
+	draw_set_font(font);
+	dialogueText = "Press E to pick up";
 } 
 
-if (!place_meeting(x, y, obj_player) && playerInRange) { 
+if (!place_meeting(x, y, obj_player)) { 
     dialogueText = ""; 
-    playerInRange = false; 
 } 
 
-if (place_meeting(x, y, obj_player) && playerInRange && keyboard_check_pressed(ord("E"))) { 
+if (place_meeting(x, y, obj_player) && keyboard_check_pressed(ord("E"))) { 
     global.collectedbook = true 
 	instance_destroy() 
 } 
