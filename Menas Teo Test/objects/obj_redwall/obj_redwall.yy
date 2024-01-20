@@ -8,8 +8,6 @@
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
-    "name": "walls",
-    "path": "folders/Objects/walls.yy",
   },
   "parentObjectId": null,
   "persistent": false,

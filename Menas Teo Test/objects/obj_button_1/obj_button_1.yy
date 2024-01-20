@@ -12,8 +12,6 @@
   "parent": {
     "name": "buttons",
     "path": "folders/Objects/buttons.yy",
-    "name": "walls",
-    "path": "folders/Objects/walls.yy",
   },
   "parentObjectId": null,
   "persistent": false,
