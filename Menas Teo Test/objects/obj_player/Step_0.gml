@@ -98,6 +98,7 @@ if movementControl == true && global.cancontrol == true{
 }
 
 if !global.cancontrol
+
 {
 	movespd = 0;
 }
