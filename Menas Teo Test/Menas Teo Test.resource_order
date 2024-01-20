@@ -7,9 +7,9 @@
     {"name":"menu","order":9,"path":"folders/Objects/menu.yy",},
     {"name":"Obstacles","order":10,"path":"folders/Objects/Obstacles.yy",},
     {"name":"players and people","order":11,"path":"folders/Objects/players and people.yy",},
+    {"name":"red puzzle objects","order":20,"path":"folders/Objects/red puzzle objects.yy",},
     {"name":"transition","order":12,"path":"folders/Objects/transition.yy",},
     {"name":"walls","order":13,"path":"folders/Objects/walls.yy",},
-    {"name":"red puzzle objects","order":20,"path":"folders/Objects/red puzzle objects.yy",},
     {"name":"red level","order":5,"path":"folders/Sprites/red level.yy",},
   ],
   "ResourceOrderSettings": [
