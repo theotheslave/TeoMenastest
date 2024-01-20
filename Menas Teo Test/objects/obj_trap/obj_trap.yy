@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Menas Teo Test",
-    "path": "Menas Teo Test.yyp",
+    "name": "red puzzle objects",
+    "path": "folders/Objects/red puzzle objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,

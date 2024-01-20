@@ -81,4 +81,9 @@ global.topics[$ "redbook"] = [
 	TEXT("Seems like it's an ancient book, some pages are wrapped..."),
 	];
 
-
+global.topics[$ "enterjesterroom"] = [
+    TEXT("?: So you came..."),
+	TEXT("?: Legends didn't lie..."),
+	TEXT("?: You're the chosen one..."),
+	TEXT("?: Come face me prince..."),
+	];
