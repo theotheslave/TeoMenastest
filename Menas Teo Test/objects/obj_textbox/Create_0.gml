@@ -52,6 +52,7 @@ setTopic = function(topic){
 next = function(){
 	current_action++;
 	if (current_action >= array_length(actions)){
+		global.cancontrol = true
 		instance_destroy();
 	}
 	else{

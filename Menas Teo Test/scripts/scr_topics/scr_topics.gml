@@ -68,7 +68,17 @@ global.topics[$ "redpuzzleletter"] = [
 	
 	];
 
+global.topics[$ "pickupletter"] = [
+    TEXT("You picked up the letter"),
+	TEXT("It says: Loser, go back, there's nothing you can do, this is your final destiny!"),
+	TEXT("Suddenly you realise that the handwriting is just like your mom's"),
+	
+	];
 
-
+global.topics[$ "redbook"] = [
+    TEXT("You picked up the book"),
+	TEXT("Title says: Red Crystal and everything about it"),
+	TEXT("Seems like it's an ancient book, some pages are wrapped..."),
+	];
 
 
