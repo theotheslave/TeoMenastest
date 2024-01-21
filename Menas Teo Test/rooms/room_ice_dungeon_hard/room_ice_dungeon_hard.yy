@@ -216,7 +216,6 @@
     {"name":"inst_37F0AEA3","path":"rooms/room_ice_dungeon_hard/room_ice_dungeon_hard.yy",},
     {"name":"inst_374D44F1","path":"rooms/room_ice_dungeon_hard/room_ice_dungeon_hard.yy",},
     {"name":"inst_33E6192D","path":"rooms/room_ice_dungeon_hard/room_ice_dungeon_hard.yy",},
-    {"name":"inst_773326D0","path":"rooms/room_ice_dungeon_hard/room_ice_dungeon_hard.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -392,7 +391,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_33E6192D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_stairs","path":"objects/obj_stairs/obj_stairs.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_stairs","path":"objects/obj_stairs/obj_stairs.yy",},"propertyId":{"name":"Stairs","path":"objects/obj_stairs/obj_stairs.yy",},"value":"room_redpuzzle1",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":0.5,"x":-32.0,"y":544.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_773326D0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"m_id_hard","path":"objects/m_id_hard/m_id_hard.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":288.0,"y":416.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"ice_tile_set","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":63,"SerialiseWidth":114,"TileCompressedData":[
 -8,1,-28,-2147483648,-2,0,-76,-2147483648,-8,1,1,25,-24,6,8,26,-2147483648,-2147483648,0,0,-2147483648,-2147483648,25,-40,6,4,26,-2147483648,-2147483648,25,-16,6,1,26,-9,1,-3,-2147483648,-8,1,1,21,-24,22,1,3,-6,6,1,2,-40,22,4,3,6,6,2,-16,22,1,20,-9,1,-3,-2147483648,-8,1,3,27,7,5,-48,22,4,4,7,7,5,-6,22,1,4,-6,7,1,5,-24,22,1,20,-9,1,-3,-2147483648,-8,1,-2,-2147483648,1,21,-48,22,4,20,-2147483648,-2147483648,21,-6,22,1,20,-6,-2147483648,1,
