@@ -40,4 +40,3 @@ centerY = y + centerYOffset
 
 global.collectedletter = false
 global.collectedbook = false
-global.cansprint = true
