@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_reddoor2",
-    "path": "sprites/spr_reddoor2/spr_reddoor2.yy",
+    "name": "spr_reddoorwithoutlock",
+    "path": "sprites/spr_reddoorwithoutlock/spr_reddoorwithoutlock.yy",
   },
   "spriteMaskId": null,
   "visible": true,

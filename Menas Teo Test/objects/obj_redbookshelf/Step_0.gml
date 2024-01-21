@@ -22,7 +22,6 @@ if (place_meeting(x, y, obj_player) && global.collectedbook && keyboard_check_pr
 	sprite_index = spr_fullbookshelf 
 	x = x - 128  
 	move = false
-	startDialogue("enterjesterroom")
 } 
 
 
