@@ -12,6 +12,8 @@
   "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Music","folderPath":"folders/Music.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_music","folderPath":"folders/Music/obj_music.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"buttons","folderPath":"folders/Objects/buttons.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"dialogue system","folderPath":"folders/Objects/dialogue system.yy",},
@@ -45,8 +47,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Sprites/walls.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSet","folderPath":"folders/TileSet.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"group1","folderPath":"folders/TileSet/group1.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Music","folderPath":"folders/Music.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_music","folderPath":"folders/Music/obj_music.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"ice stone.aseprite","CopyToMask":-1,"filePath":"datafiles",},
@@ -55,7 +55,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"snd_yellow","path":"sounds/snd_yellow/snd_yellow.yy",},},
@@ -262,11 +262,11 @@
     {"id":{"name":"room_inside","path":"rooms/room_inside/room_inside.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_begin","path":"rooms/room_begin/room_begin.yy",},},
     {"roomId":{"name":"room_reddungeon2","path":"rooms/room_reddungeon2/room_reddungeon2.yy",},},
     {"roomId":{"name":"room_reddungeon1","path":"rooms/room_reddungeon1/room_reddungeon1.yy",},},
     {"roomId":{"name":"room_yellow_dungeon_easy","path":"rooms/room_yellow_dungeon_easy/room_yellow_dungeon_easy.yy",},},
     {"roomId":{"name":"room_ice_dungeon_easy","path":"rooms/room_ice_dungeon_easy/room_ice_dungeon_easy.yy",},},
-    {"roomId":{"name":"room_begin","path":"rooms/room_begin/room_begin.yy",},},
     {"roomId":{"name":"room_cutscene","path":"rooms/room_cutscene/room_cutscene.yy",},},
     {"roomId":{"name":"room_ice_dungeon_mid","path":"rooms/room_ice_dungeon_mid/room_ice_dungeon_mid.yy",},},
     {"roomId":{"name":"room_forest","path":"rooms/room_forest/room_forest.yy",},},
