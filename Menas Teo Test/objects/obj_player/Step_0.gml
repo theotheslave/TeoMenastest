@@ -112,6 +112,7 @@ if movementControl == true && global.cancontrol == true{
 if !global.cancontrol
 {
 	movespd = 0;
+	sprite_index = spr_player_standingstill
 }
 
 
@@ -125,7 +126,7 @@ if (array_length (move_and_collide(0, yspeed, obj_collision_parent, 4, 0, 0, mov
 	yspeed = 0;
 }
 
-if shift_sprint
+if shift_sprint && global.cansprint
 {
 	movespd = 5;
 }

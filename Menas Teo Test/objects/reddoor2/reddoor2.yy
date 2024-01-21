@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_reddoor",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "reddoor2",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "red puzzle objects",
-    "path": "folders/Objects/red puzzle objects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_reddoor2",
-    "path": "sprites/spr_reddoor2/spr_reddoor2.yy",
+    "name": "spr_reddoorwithoutlock",
+    "path": "sprites/spr_reddoorwithoutlock/spr_reddoorwithoutlock.yy",
   },
   "spriteMaskId": null,
   "visible": true,
