@@ -1,5 +1,5 @@
-draw_sprite_ext(sPixel, 0,0,0, 1400, 100, 0, c_black, 1);
-draw_sprite_ext(sPixel, 0,0,570, 1400, 330, 0, c_black, 1);
+draw_sprite_ext(sPixel, 0,0,0, 1366, 100, 0, c_black, 1);
+draw_sprite_ext(sPixel, 0,0,570, 1366, 330, 0, c_black, 1);
 
 draw_set_color(c_white);
 draw_set_halign(fa_center);
