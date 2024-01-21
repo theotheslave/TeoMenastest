@@ -53,7 +53,6 @@
     {"name":"inst_17CBC4EA","path":"rooms/room_ice_dungeon_easy/room_ice_dungeon_easy.yy",},
     {"name":"inst_EFB8F28","path":"rooms/room_ice_dungeon_easy/room_ice_dungeon_easy.yy",},
     {"name":"inst_669B65F4","path":"rooms/room_ice_dungeon_easy/room_ice_dungeon_easy.yy",},
-    {"name":"inst_71113870","path":"rooms/room_ice_dungeon_easy/room_ice_dungeon_easy.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -97,7 +96,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6B8F2176","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_icewall","path":"objects/obj_icewall/obj_icewall.yy",},"properties":[],"rotation":0.0,"scaleX":1.9824438,"scaleY":12.0,"x":-31.382019,"y":192.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_52D65430","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_icewall","path":"objects/obj_icewall/obj_icewall.yy",},"properties":[],"rotation":0.0,"scaleX":1.9824438,"scaleY":15.1875,"x":-31.19101,"y":384.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_50598AB1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_icewall","path":"objects/obj_icewall/obj_icewall.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":28.0,"x":1376.0,"y":192.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_71113870","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"m_id_easy","path":"objects/m_id_easy/m_id_easy.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":384.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"cliff_tile_set_layer","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":63,"SerialiseWidth":86,"TileCompressedData":[
 -688,-2147483648,-86,3,1,4,-85,5,1,4,-85,5,-86,1,-2322,-2147483648,-86,3,-172,5,-86,1,-1720,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"cliff_ice_tileset","path":"tilesets/cliff_ice_tileset/cliff_ice_tileset.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
