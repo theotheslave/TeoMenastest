@@ -87,3 +87,8 @@ global.topics[$ "enterjesterroom"] = [
 	TEXT("?: You're the chosen one..."),
 	TEXT("?: Come face me prince..."),
 	];
+
+global.topics[$ "enteringreddungeon"] = [
+    TEXT("You feel your legs are getting weak"),
+	TEXT("It seems like you can't run no more"),
+	];

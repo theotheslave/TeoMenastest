@@ -1,8 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_reddoor",
+  "name": "obj_redpathsprintdisabler",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_reddoor2",
-    "path": "sprites/spr_reddoor2/spr_reddoor2.yy",
+    "name": "spr_redpath",
+    "path": "sprites/spr_redpath/spr_redpath.yy",
   },
   "spriteMaskId": null,
   "visible": true,
