@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_reddoor",
+  "name": "obj_jester",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "red puzzle objects",
-    "path": "folders/Objects/red puzzle objects.yy",
+    "name": "players and people",
+    "path": "folders/Objects/players and people.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,10 +27,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "spr_reddoor2",
-    "path": "sprites/spr_reddoor2/spr_reddoor2.yy",
+    "name": "spr_jester",
+    "path": "sprites/spr_jester/spr_jester.yy",
   },
   "spriteMaskId": null,
   "visible": true,

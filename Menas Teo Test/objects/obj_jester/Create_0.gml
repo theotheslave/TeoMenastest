@@ -1,0 +1,10 @@
+global.jesterdialogue = 0
+
+
+
+
+
+
+
+
+
