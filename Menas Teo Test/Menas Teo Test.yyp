@@ -29,6 +29,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"transition","folderPath":"folders/Objects/transition.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Objects/walls.yy",},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Inside assets","folderPath":"folders/Objects/walls/Inside assets.yy",},
 <<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"yellow dungeon","folderPath":"folders/Objects/yellow dungeon.yy",},
@@ -36,6 +37,8 @@
 >>>>>>> parent of 82ae875 (dungeons part 2)
 =======
 >>>>>>> parent of 9afa03f (Merge branch 'Sven-v4' into new-main)
+=======
+>>>>>>> parent of 82ae875 (dungeons part 2)
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Path","folderPath":"folders/Path.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
@@ -55,7 +58,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"walls","folderPath":"folders/Sprites/walls.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSet","folderPath":"folders/TileSet.yy",},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"group1","folderPath":"folders/TileSet/group1.yy",},
+=======
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"yellow dungeon","folderPath":"folders/Objects/yellow dungeon.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"yellow dungeon","folderPath":"folders/Sprites/yellow dungeon.yy",},
+>>>>>>> parent of 82ae875 (dungeons part 2)
 =======
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"yellow dungeon","folderPath":"folders/Objects/yellow dungeon.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"yellow dungeon","folderPath":"folders/Sprites/yellow dungeon.yy",},
@@ -97,8 +105,11 @@
     {"id":{"name":"obj_bookshelf4","path":"objects/obj_bookshelf4/obj_bookshelf4.yy",},},
 <<<<<<< HEAD
     {"id":{"name":"obj_button_puzzle_1_2","path":"objects/obj_button_puzzle_1_2/obj_button_puzzle_1_2.yy",},},
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9afa03f (Merge branch 'Sven-v4' into new-main)
+=======
+>>>>>>> parent of 82ae875 (dungeons part 2)
     {"id":{"name":"spr_TileSet","path":"sprites/spr_TileSet/spr_TileSet.yy",},},
     {"id":{"name":"obj_closet","path":"objects/obj_closet/obj_closet.yy",},},
     {"id":{"name":"spr_redwall","path":"sprites/spr_redwall/spr_redwall.yy",},},
@@ -113,6 +124,7 @@
     {"id":{"name":"obj_void","path":"objects/obj_void/obj_void.yy",},},
     {"id":{"name":"obj_main_menu_button_quit","path":"objects/obj_main_menu_button_quit/obj_main_menu_button_quit.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"m_id_easy","path":"objects/m_id_easy/m_id_easy.yy",},},
     {"id":{"name":"obj_redbookshelf","path":"objects/obj_redbookshelf/obj_redbookshelf.yy",},},
 <<<<<<< HEAD
@@ -121,6 +133,8 @@
 >>>>>>> parent of 82ae875 (dungeons part 2)
 =======
 >>>>>>> parent of 9afa03f (Merge branch 'Sven-v4' into new-main)
+=======
+>>>>>>> parent of 82ae875 (dungeons part 2)
     {"id":{"name":"obj_kingroom","path":"objects/obj_kingroom/obj_kingroom.yy",},},
     {"id":{"name":"Pixel","path":"fonts/Pixel/Pixel.yy",},},
     {"id":{"name":"spr_cobweb1","path":"sprites/spr_cobweb1/spr_cobweb1.yy",},},
@@ -173,9 +187,12 @@
     {"id":{"name":"spr_yellow_snowflake","path":"sprites/spr_yellow_snowflake/spr_yellow_snowflake.yy",},},
     {"id":{"name":"obj_button_3","path":"objects/obj_button_3/obj_button_3.yy",},},
     {"id":{"name":"obj_yellow_gold","path":"objects/obj_yellow_gold/obj_yellow_gold.yy",},},
+<<<<<<< HEAD
 =======
     {"id":{"name":"obj_button_3","path":"objects/obj_button_3/obj_button_3.yy",},},
 >>>>>>> parent of 9afa03f (Merge branch 'Sven-v4' into new-main)
+=======
+>>>>>>> parent of 82ae875 (dungeons part 2)
     {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
     {"id":{"name":"scr_topics","path":"scripts/scr_topics/scr_topics.yy",},},
     {"id":{"name":"obj_reddoor","path":"objects/obj_reddoor/obj_reddoor.yy",},},
@@ -189,6 +206,7 @@
     {"id":{"name":"obj_bed","path":"objects/obj_bed/obj_bed.yy",},},
     {"id":{"name":"Kitchen_top_bw","path":"sprites/Kitchen_top_bw/Kitchen_top_bw.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"obj_bookshelf12","path":"objects/obj_bookshelf12/obj_bookshelf12.yy",},},
     {"id":{"name":"spr_fullbookshelf","path":"sprites/spr_fullbookshelf/spr_fullbookshelf.yy",},},
     {"id":{"name":"spr_bookshelf","path":"sprites/spr_bookshelf/spr_bookshelf.yy",},},
@@ -198,6 +216,8 @@
 >>>>>>> parent of 82ae875 (dungeons part 2)
 =======
 >>>>>>> parent of 9afa03f (Merge branch 'Sven-v4' into new-main)
+=======
+>>>>>>> parent of 82ae875 (dungeons part 2)
     {"id":{"name":"spr_carpet","path":"sprites/spr_carpet/spr_carpet.yy",},},
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},},
     {"id":{"name":"spr_yellow_wall","path":"sprites/spr_yellow_wall/spr_yellow_wall.yy",},},
@@ -318,8 +338,11 @@
     {"id":{"name":"obj_yellow_dungeon_easy_exit","path":"objects/obj_yellow_dungeon_easy_exit/obj_yellow_dungeon_easy_exit.yy",},},
 <<<<<<< HEAD
     {"id":{"name":"obj_yellow_leaf","path":"objects/obj_yellow_leaf/obj_yellow_leaf.yy",},},
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9afa03f (Merge branch 'Sven-v4' into new-main)
+=======
+>>>>>>> parent of 82ae875 (dungeons part 2)
     {"id":{"name":"spr_yellow_floor","path":"sprites/spr_yellow_floor/spr_yellow_floor.yy",},},
     {"id":{"name":"obj_chair","path":"objects/obj_chair/obj_chair.yy",},},
     {"id":{"name":"PauseFont","path":"fonts/PauseFont/PauseFont.yy",},},
@@ -357,8 +380,11 @@
     {"roomId":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},},
 <<<<<<< HEAD
     {"roomId":{"name":"room_controls","path":"rooms/room_controls/room_controls.yy",},},
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9afa03f (Merge branch 'Sven-v4' into new-main)
+=======
+>>>>>>> parent of 82ae875 (dungeons part 2)
   ],
   "templateType": "game",
   "TextureGroups": [
