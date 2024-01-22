@@ -6,7 +6,9 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_main_menu_button_parent","path":"objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",},"propertyId":{"name":"main_menu_button_text","path":"objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",},"value":"Controls",},
+  ],
   "parent": {
     "name": "Buttons",
     "path": "folders/Objects/main menu/Buttons.yy",

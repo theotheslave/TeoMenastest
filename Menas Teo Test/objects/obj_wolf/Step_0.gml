@@ -9,3 +9,15 @@ else{
 yspeedenemy= 5
 xspeedenemy= 5
 }
+
+if place_meeting(x,y,wolf_wall){
+xspeedenemy =0
+yspeedenemy =0
+
+}
+
+else{
+xspeedenemy = 5
+yspeedenemy = 5
+
+}

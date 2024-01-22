@@ -1,5 +1,10 @@
-if (!playerInRange) {
- 
-	draw_set_font (fnt_npc);
-	draw_text_color(obj_player.x-70, obj_player.y -60, "What is that sound ?", c_black, c_black, c_black, c_black,1)
+//Draw Event for NPC
+draw_self();
+
+// Draw dialogue text
+if (playerInRange) {
+    // You can adjust the position based on your game's layout
+    draw_text(obj_player.x - 65, obj_player.y - 50, dialogueText);
+	draw_set_font(font)
+
 }
