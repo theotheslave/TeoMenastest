@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_yellow_dungeon_hard_exit",
+  "name": "obj_yellow_hearts",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "transition",
-    "path": "folders/Objects/transition.yy",
+    "name": "yellow dungeon",
+    "path": "folders/Objects/yellow dungeon.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_yellow_gate",
-    "path": "sprites/spr_yellow_gate/spr_yellow_gate.yy",
+    "name": "spr_yellow_hearts",
+    "path": "sprites/spr_yellow_hearts/spr_yellow_hearts.yy",
   },
   "spriteMaskId": null,
   "visible": true,

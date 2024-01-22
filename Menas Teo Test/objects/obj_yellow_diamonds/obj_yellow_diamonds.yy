@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_yellow_dungeon_hard_exit",
+  "name": "obj_yellow_diamonds",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "transition",
-    "path": "folders/Objects/transition.yy",
+    "name": "yellow dungeon",
+    "path": "folders/Objects/yellow dungeon.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_yellow_gate",
-    "path": "sprites/spr_yellow_gate/spr_yellow_gate.yy",
+    "name": "spr_yellow_diamonds",
+    "path": "sprites/spr_yellow_diamonds/spr_yellow_diamonds.yy",
   },
   "spriteMaskId": null,
   "visible": true,

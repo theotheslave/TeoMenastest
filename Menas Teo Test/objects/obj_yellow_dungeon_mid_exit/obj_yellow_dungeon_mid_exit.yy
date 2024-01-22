@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_door",
-    "path": "sprites/spr_door/spr_door.yy",
+    "name": "spr_yellow_gate",
+    "path": "sprites/spr_yellow_gate/spr_yellow_gate.yy",
   },
   "spriteMaskId": null,
   "visible": true,
