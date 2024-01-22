@@ -2,9 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_main_menu_button_controls",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_main_menu_button_parent","path":"objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",},"propertyId":{"name":"main_menu_button_text","path":"objects/obj_main_menu_button_parent/obj_main_menu_button_parent.yy",},"value":"Controls",},

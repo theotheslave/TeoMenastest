@@ -1,0 +1,9 @@
+
+
+collidedtrap = false
+
+
+
+
+
+
