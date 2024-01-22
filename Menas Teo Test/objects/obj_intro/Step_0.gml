@@ -20,7 +20,13 @@ if (keyboard_check_direct(vk_space))
 holdspace++;
 }
 
-if (ypos < 200) room_goto_next();
+if (ypos < 200) {
+	
+	
+	
+	room_goto(room_begin)
+	
+	}
 
 
 

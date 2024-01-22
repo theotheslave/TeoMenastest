@@ -8,4 +8,4 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto (room_reddungeon1);
+room_goto (room_cutscene);
