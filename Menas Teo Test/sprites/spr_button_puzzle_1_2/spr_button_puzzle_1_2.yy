@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "yellow dungeon",
-    "path": "folders/Sprites/yellow dungeon.yy",
+    "name": "button",
+    "path": "folders/Sprites/button.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

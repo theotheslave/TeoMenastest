@@ -110,7 +110,6 @@ if movementControl == true && global.cancontrol == true{
 
 
 if !global.cancontrol
-
 {
 	movespd = 0;
 	sprite_index = spr_player_standingstill
@@ -141,7 +140,7 @@ if(place_meeting(x,y,obj_trap))
 	trapped = true
 	global.cancontrol = false
 }
-if (trapped && keyboard_check_pressed(vk_space))
+if (trapped && keyboard_check_pressed(ord("Q")))
 {
 	trapcounter++
 }

@@ -15,5 +15,3 @@ goaloptions = ["Explore the forest", "Find the castle", "Get the yellow crystal"
 goalcurrentoption = 0
 space = ""
 buttonPuzzle1();
-buttonPuzzle2()
-buttonPuzzle3()

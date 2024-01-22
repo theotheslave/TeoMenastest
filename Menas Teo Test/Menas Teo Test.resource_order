@@ -96,6 +96,7 @@
     {"name":"obj_corner_kitchen","order":3,"path":"objects/obj_corner_kitchen/obj_corner_kitchen.yy",},
     {"name":"obj_cobweb1","order":8,"path":"objects/obj_cobweb1/obj_cobweb1.yy",},
     {"name":"obj_question2","order":14,"path":"objects/obj_question2/obj_question2.yy",},
+<<<<<<< HEAD
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"buttons","order":32,"path":"folders/Objects/buttons.yy",},
@@ -273,5 +274,7 @@
     {"name":"PauseFont","order":1,"path":"fonts/PauseFont/PauseFont.yy",},
     {"name":"obj_icerestart","order":6,"path":"objects/obj_icerestart/obj_icerestart.yy",},
     {"name":"room_begin","order":2,"path":"rooms/room_begin/room_begin.yy",},
+=======
+>>>>>>> parent of 9afa03f (Merge branch 'Sven-v4' into new-main)
   ],
 }
