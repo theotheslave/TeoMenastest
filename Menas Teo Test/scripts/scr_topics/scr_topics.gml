@@ -92,3 +92,84 @@ global.topics[$ "enteringreddungeon"] = [
     TEXT("You feel your legs are getting weak"),
 	TEXT("It seems like you can't run no more"),
 	];
+	
+global.topics[$ "jester1"] = [
+    TEXT("Jester: Finally, prince, you're here!"),
+	TEXT("You: What happened here? Why everything's so destroyed and abandoned?"),
+	TEXT("Jester: Well I got very dangerous book from library about managing red crystal's power"),
+	TEXT("Jester: You might ask why it was exactly me? Well that's because nowadays nobody uses that library!"),
+	TEXT("You: Did you make it all?"),
+	TEXT("Jester: Yeah... I didn't understand what I was doing at all and that caused huge problems as you may see..."),
+	TEXT("You: Is there any way to repair everything?"),
+	TEXT("Jester: Oh yeah, red crystal felt my fear and took the power over me and now he rules everything"),
+	TEXT("Jester: Legend says that the prince would save everyone, apparently there's some kind of challenge that you need to complete to manage the power of red crystal"),
+	TEXT("You: Alright I'm ready! But the hallway is blocked by the bookshelf, how do we move it?"),
+	TEXT("Jester: Ahh don't worry, I'll just remove it for you, piece of cake!"),
+	TEXT("You: ..."),
+	];
+	
+global.topics[$ "jester2"] = [
+    TEXT("Jester: If you want to read the books read only the ones that are covered with cobweb, those contain useful information!"),
+	TEXT("Jester: Oh and make sure to start reading from down left corner and then just clockwise"),
+    ];
+
+global.topics[$ "jester3"] = [
+    TEXT("Jester: Wow, even I haven't read them all"),
+	];
+global.topics[$ "book1"] = [
+    TEXT("A long time ago, when the kingdom was ruled by the Shivan dynasty, the Gods constantly quarreled, this continued for hundreds of years until one day they were tired of this and created a red crystal that was supposed to help the people of the red kingdom"),
+	];
+global.topics[$ "book2"] = [
+    TEXT("The Shivan Dynasty ended its existence and the kingdom was engulfed in chaos and civil war until a young man named Rons took control of the red crystal and set things right"),
+	];
+global.topics[$ "book3"] = [
+    TEXT("Rons was a good king, he in his time made the red kingdom a work of art with various palaces and exquisite gardens"),
+	];
+global.topics[$ "book4"] = [
+    TEXT("He developed literacy in the kingdom and even wrote a book about controlling the power of the red crystal which he hid in a secret dungeon"),
+	];
+global.topics[$ "book5"] = [
+    TEXT("His children Isabella and Mike who were fighting for the throne wanted to get hold of that book to do whatever they wanted with the crystal"),
+	];
+global.topics[$ "book6"] = [
+    TEXT("No one could find that book, so they tried to learn to control the power of the crystal themselves"),
+	];
+global.topics[$ "book7"] = [
+    TEXT("Isabella decided to use the crystal for her own purposes and when she got everything she wanted she simply disappeared and no one saw her again"),
+	];
+global.topics[$ "book8"] = [
+    TEXT("Mike wanted to help the people and his father didn't tell him where the book was as he died by illness, so all he did was trying to maintain the standard of living so it does not go down, but it didn't work out well for him"),
+	];
+global.topics[$ "book9"] = [
+    TEXT("After Mike, the kings changed very dynamically and this led to the fact that everyone forgot about the red crystal and simply tried to save it"),
+	];
+global.topics[$ "book10"] = [
+    TEXT("Once the royal jester was upset that the king was constantly mocking him and he decided to take revenge and just that night he had a dream in which the location of the secret book was described"),
+	];
+global.topics[$ "book11"] = [
+    TEXT("After he got hold of the crystal he cleared the memory of the king and made all the people aggressive which turned into a serious civil war with many casualties"),
+	];
+global.topics[$ "book12"] = [
+    TEXT("Only when the number of victims exceeded hundreds of thousands he realised what he have done and decided to fix everything, but he could not, so he closed himself in the royal library because it is one of the safe places left"),
+	];
+global.topics[$ "startquiz"] = [
+    TEXT("The voice from above talks"),
+    TEXT("Only the one who knows history of our kingdom can get the crystal"),
+	TEXT("Test your skills prince!"),
+	];
+global.topics[$ "question1"] = [
+    TEXT("What's the name of dynasty that ruled over red kingdom in the very beginning?"),
+	TEXT("Left: Shivan, Middle: Rivan, Right: Levan"),
+	];
+global.topics[$ "question2"] = [
+    TEXT("What happened after the death of Shivan dynasty?"),
+	TEXT("Left: Kingdom became better place to live, Middle: Nothing changed, Right: Chaos and war"),
+	];
+global.topics[$ "question3"] = [
+    TEXT("What did Ron make in his kingdom?"),
+	TEXT("Left: Developed trading, Middle: Nothing, Right: Many different architecture"),
+	];
+global.topics[$ "question4"] = [
+    TEXT("What was improved during Ron's rule?"),
+	TEXT("Left: Literacy, Middle: Art, Right: Both"),
+	];

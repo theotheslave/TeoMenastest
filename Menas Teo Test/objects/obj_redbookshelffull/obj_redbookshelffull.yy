@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_redwallnohitbox",
+  "name": "obj_redbookshelffull",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "red puzzle objects",
-    "path": "folders/Objects/red puzzle objects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_void",
+    "path": "objects/obj_void/obj_void.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_redwall",
-    "path": "sprites/spr_redwall/spr_redwall.yy",
+    "name": "spr_fullbookshelf",
+    "path": "sprites/spr_fullbookshelf/spr_fullbookshelf.yy",
   },
   "spriteMaskId": null,
   "visible": true,
