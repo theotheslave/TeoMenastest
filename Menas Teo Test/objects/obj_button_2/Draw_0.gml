@@ -7,4 +7,5 @@ draw_set_color(c_black);
 if (playerCheck) {
     // You can adjust the position based on your game's layout
     draw_text(x - string_width(text) / 2, y - 30, text);
+	draw_set_font (font);
 }

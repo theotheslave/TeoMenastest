@@ -32,6 +32,18 @@ global.topics[$ "YellowSign1"] = [
 	
 
 	];
+	
+global.topics[$ "YellowSign2"] = [
+	TEXT("The season after the current one will bring snow."),
+	
+
+	];
+	
+global.topics[$ "YellowSign3"] = [
+	TEXT("Bury my soul with money underneath the tavern."),
+	
+
+	];
 
 global.topics[$ "KingsRoom"] = [
 	TEXT("Guard: Sire, there was a lot of commotion in the streets. We found this person in the middle of it."),

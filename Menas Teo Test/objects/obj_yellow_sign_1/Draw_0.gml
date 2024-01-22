@@ -4,5 +4,6 @@ draw_set_color(c_black);
 
 if (playerInRange) {
     draw_text(x - string_width(text) / 2, y - 20, text);
+	draw_set_font (font);
 }  
 

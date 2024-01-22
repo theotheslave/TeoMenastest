@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "yellow dungeon",
+    "path": "folders/Objects/yellow dungeon.yy",
   },
   "parentObjectId": {
     "name": "obj_collision_parent",
