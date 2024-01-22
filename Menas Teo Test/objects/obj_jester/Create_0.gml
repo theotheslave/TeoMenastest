@@ -8,3 +8,5 @@ global.jesterdialogue = 0
 
 
 
+
+

@@ -1,13 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_redwallnohitbox",
-  "eventList": [],
+  "name": "obj_bookshelf10",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "red puzzle objects",
-    "path": "folders/Objects/red puzzle objects.yy",
+    "name": "bookshelfs and questions",
+    "path": "folders/Objects/bookshelfs and questions.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_redwall",
-    "path": "sprites/spr_redwall/spr_redwall.yy",
+    "name": "spr_fullbookshelf",
+    "path": "sprites/spr_fullbookshelf/spr_fullbookshelf.yy",
   },
   "spriteMaskId": null,
   "visible": true,
