@@ -1,9 +1,0 @@
-
-
-collidedtrap = false
-
-
-
-
-
-

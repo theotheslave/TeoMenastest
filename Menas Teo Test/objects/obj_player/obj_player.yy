@@ -18,8 +18,6 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_doorice","path":"objects/obj_doorice/obj_doorice.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_restartquiz","path":"objects/obj_restartquiz/obj_restartquiz.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_dooriceout","path":"objects/obj_dooriceout/obj_dooriceout.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_yellow_dungeon_mid_exit","path":"objects/obj_yellow_dungeon_mid_exit/obj_yellow_dungeon_mid_exit.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_yellow_dungeon_hard_exit","path":"objects/obj_yellow_dungeon_hard_exit/obj_yellow_dungeon_hard_exit.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],

@@ -20,12 +20,10 @@ if (!place_meeting (x, y, obj_player) && playerCheck) {
 if (keyboard_check (vk_space) && !pressed && playerCheck && global.current_button_1 = buttonID) {
 	pressed = true;
 	global.current_button_1 ++;
-	audio_play_sound(snd_button_correct,0,0);
 }
 
 if (keyboard_check (vk_space) && !pressed && playerCheck && global.current_button_1 < buttonID) {
 	global.current_button_1 = 0;
-	audio_play_sound(snd_button_wrong,0,0);
 }
 
 // For debugging
