@@ -1,4 +1,4 @@
-if(place_meeting(x,y,obj_player) && keyboard_check_pressed(vk_space) && global.jesterdialogue > 0){
+if(place_meeting(x,y,obj_player) && keyboard_check_pressed(ord("E")) && global.jesterdialogue > 0){
 	startDialogue("book10")
     dialogue ++
 }

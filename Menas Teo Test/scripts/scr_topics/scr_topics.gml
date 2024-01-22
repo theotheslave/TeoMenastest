@@ -173,3 +173,28 @@ global.topics[$ "question4"] = [
     TEXT("What was improved during Ron's rule?"),
 	TEXT("Left: Literacy, Middle: Art, Right: Both"),
 	];
+global.topics[$ "question5"] = [
+    TEXT("How many children did Ron have?"),
+	TEXT("Left: 2, Middle: 3, Right: 4"),
+	];
+global.topics[$ "question6"] = [
+    TEXT("Did Isabella find the secret book?"),
+	TEXT("Left: Yes, Middle: No, Right: Nobody knows"),
+	];
+global.topics[$ "question7"] = [
+    TEXT("What happened to Isabella?"),
+	TEXT("Left: She became a queen, Middle: She disappeared, Right: She died"),
+	];
+global.topics[$ "question8"] = [
+    TEXT("What did Mike do when he was a king?"),
+	TEXT("Left: Led the country down, Middle: Developed the country, Right: Tried to save everything as it was"),
+	];
+global.topics[$ "question9"] = [
+    TEXT("Did everyone forget history of red kingdom?"),
+	TEXT("Left: Yes, Middle: Apparently, Right: No"),
+	];
+global.topics[$ "redcrystal"] = [
+    TEXT("Voice: Oh you made me cry even though crystals do not cry"),
+	TEXT("Voice: You can own me young prince"),
+	TEXT("You: Great, red kingdom is saved!"),
+	];
