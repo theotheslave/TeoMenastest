@@ -7,4 +7,6 @@ state = UNPRESSED;
 
 playerCheck = false;
 text = "";
+font = fnt_npc;
+
 pressed = false;
