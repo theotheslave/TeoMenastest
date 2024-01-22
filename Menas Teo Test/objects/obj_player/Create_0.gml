@@ -1,10 +1,10 @@
 depth=-y
 global.npchp = 10
 //setting up sprites for facing 
-sprite[RIGHT] = spr_player_right;
-sprite[UP] = spr_player_up;
-sprite[LEFT] = spr_player_left;
-sprite[DOWN] = spr_player_down;
+sprite[RIGHT] = basic_sprite_mc_right_Sheet_bw;
+sprite[UP] = basic_sprite_mc_up_Sheet_bw;
+sprite[LEFT] = basic_sprite_mc_left_Sheet_bw;
+sprite[DOWN] = mc_animation_down_Sheet_bw;
 
 
 face = DOWN

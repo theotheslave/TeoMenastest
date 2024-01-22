@@ -47,8 +47,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_standingstill",
-    "path": "sprites/spr_player_standingstill/spr_player_standingstill.yy",
+    "name": "spr_mc_bw",
+    "path": "sprites/spr_mc_bw/spr_mc_bw.yy",
   },
   "spriteMaskId": {
     "name": "spr_player_down",
