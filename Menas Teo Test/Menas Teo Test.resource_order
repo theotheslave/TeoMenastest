@@ -67,6 +67,7 @@
     {"name":"obj_bookshelf12","order":2,"path":"objects/obj_bookshelf12/obj_bookshelf12.yy",},
     {"name":"spr_fullbookshelf","order":4,"path":"sprites/spr_fullbookshelf/spr_fullbookshelf.yy",},
     {"name":"spr_bookshelf","order":1,"path":"sprites/spr_bookshelf/spr_bookshelf.yy",},
+    {"name":"Sprite97","order":3,"path":"sprites/Sprite97/Sprite97.yy",},
     {"name":"spr_yellow_wall","order":9,"path":"sprites/spr_yellow_wall/spr_yellow_wall.yy",},
     {"name":"spr_jester","order":9,"path":"sprites/spr_jester/spr_jester.yy",},
     {"name":"obj_redwall","order":5,"path":"objects/obj_redwall/obj_redwall.yy",},

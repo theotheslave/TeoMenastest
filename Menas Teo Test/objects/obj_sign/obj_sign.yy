@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_sign",
-    "path": "sprites/spr_sign/spr_sign.yy",
+    "name": "Sprite97",
+    "path": "sprites/Sprite97/Sprite97.yy",
   },
   "spriteMaskId": null,
   "visible": true,
