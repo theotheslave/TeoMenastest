@@ -36,7 +36,7 @@ sprite_index = sprite[face];
 //animate
 if xspeed==0 && yspeed==0 {
 	
-	sprite_index = spr_player_standingstill;
+	sprite_index = spr_mc_bw;
 }
 
 //animate 

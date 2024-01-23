@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Menas Teo Test",
+    "path": "Menas Teo Test.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_main_menu",
-    "path": "sprites/spr_main_menu/spr_main_menu.yy",
+    "name": "spr_main_menu_quit",
+    "path": "sprites/spr_main_menu_quit/spr_main_menu_quit.yy",
   },
   "spriteMaskId": null,
   "visible": true,
