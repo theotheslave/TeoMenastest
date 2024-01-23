@@ -156,6 +156,7 @@
     {"name":"inst_5BD22D7D","path":"rooms/room_yellow_dungeon_easy/room_yellow_dungeon_easy.yy",},
     {"name":"inst_33E8417B","path":"rooms/room_yellow_dungeon_easy/room_yellow_dungeon_easy.yy",},
     {"name":"inst_279C5420","path":"rooms/room_yellow_dungeon_easy/room_yellow_dungeon_easy.yy",},
+    {"name":"inst_57AFBCC7","path":"rooms/room_yellow_dungeon_easy/room_yellow_dungeon_easy.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -317,6 +318,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_33E8417B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_yellow_gold","path":"objects/obj_yellow_gold/obj_yellow_gold.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":256.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_279C5420","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_yellow_vase_2","path":"objects/obj_yellow_vase_2/obj_yellow_vase_2.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":192.0,"y":256.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D6131F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":352.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57AFBCC7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"m_yd_easy","path":"objects/m_yd_easy/m_yd_easy.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":96.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
