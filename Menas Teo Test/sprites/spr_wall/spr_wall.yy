@@ -6,27 +6,27 @@
   "bbox_left": 0,
   "bbox_right": 63,
   "bbox_top": 0,
-  "bboxMode": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"643c9aec-85a4-494d-837c-ef9178900f17",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"16bed154-8491-4819-abb6-9277744ac2e5",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"805153b5-fac0-42cb-a6ce-a0dc5c2ce1b2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e959b404-3c46-492d-97c2-d6126b1a4834","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "walls",
+    "path": "folders/Sprites/walls.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"643c9aec-85a4-494d-837c-ef9178900f17","path":"sprites/spr_wall/spr_wall.yy",},},},"Disabled":false,"id":"6402059e-5cff-4794-9c9f-8f192fa4bd07","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"16bed154-8491-4819-abb6-9277744ac2e5","path":"sprites/spr_wall/spr_wall.yy",},},},"Disabled":false,"id":"373b04ac-dab5-48ea-9fcf-c9450edc1a27","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

@@ -2,12 +2,14 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_doorout",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "transition",
+    "path": "folders/Objects/transition.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -24,7 +26,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"GoingOutdoors","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"GoingOutside","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":5,},
   ],
   "solid": false,
   "spriteId": {

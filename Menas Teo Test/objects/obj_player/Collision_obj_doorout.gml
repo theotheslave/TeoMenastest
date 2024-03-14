@@ -1,4 +1,5 @@
-room_goto(other.GoingOutdoors)
+global.curgoal ++
+room_goto(other.GoingOutside)
 
 
 
